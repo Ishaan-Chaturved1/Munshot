@@ -1,2 +1,5 @@
 raw/
 server.*.log
+
+.env
+
