@@ -2,76 +2,76 @@
   {
     "brand": "Safari",
     "avgPrice": 4499,
-    "avgDiscount": 28.0,
+    "avgDiscount": 31.0,
     "avgRating": 4.03,
     "reviewCount": 0,
-    "sampleReviews": 32,
-    "sentiment": 80.2,
+    "sampleReviews": 30,
+    "sentiment": 75.8,
     "positioning": "Marketplace brand",
     "topPros": [
       "general quality",
+      "zipper issue",
       "lightweight",
-      "smooth wheels",
-      "handle quality"
+      "smooth wheels"
     ],
     "topCons": [
       "general quality",
-      "zipper issue",
-      "smooth wheels"
+      "smooth wheels",
+      "handle quality"
     ],
-    "valueScore": 17.83
+    "valueScore": 16.85
   },
   {
     "brand": "Skybags",
     "avgPrice": 2580,
-    "avgDiscount": 29.3,
+    "avgDiscount": 28.7,
     "avgRating": 4.23,
     "reviewCount": 0,
-    "sampleReviews": 37,
-    "sentiment": 77.2,
+    "sampleReviews": 35,
+    "sentiment": 76.8,
     "positioning": "Marketplace brand",
     "topPros": [
       "general quality",
       "smooth wheels",
-      "handle quality",
-      "lightweight"
+      "zipper issue",
+      "handle quality"
     ],
     "topCons": [
-      "general quality",
       "handle quality",
-      "smooth wheels"
+      "zipper issue",
+      "general quality"
     ],
-    "valueScore": 29.92
+    "valueScore": 29.77
   },
   {
     "brand": "Wildcraft",
     "avgPrice": 2252,
-    "avgDiscount": 28.0,
+    "avgDiscount": 30.7,
     "avgRating": 4.37,
     "reviewCount": 0,
-    "sampleReviews": 33,
-    "sentiment": 81.3,
+    "sampleReviews": 29,
+    "sentiment": 78.6,
     "positioning": "Marketplace brand",
     "topPros": [
       "general quality",
-      "smooth wheels",
-      "handle quality",
-      "lightweight"
+      "lightweight",
+      "zipper issue",
+      "smooth wheels"
     ],
     "topCons": [
       "general quality",
-      "smooth wheels"
+      "zipper issue"
     ],
-    "valueScore": 36.1
+    "valueScore": 34.9
   },
   {
     "brand": "AmericanTourister",
     "avgPrice": 4166,
-    "avgDiscount": 34.3,
+    "avgDiscount": 31.3,
     "avgRating": 4.13,
     "reviewCount": 0,
-    "sampleReviews": 34,
-    "sentiment": 83.2,
+    "sampleReviews": 43,
+    "sentiment": 80.0,
     "positioning": "Marketplace brand",
     "topPros": [
       "general quality",
@@ -80,9 +80,11 @@
       "handle quality"
     ],
     "topCons": [
-      "zipper issue",
-      "handle quality"
+      "general quality",
+      "smooth wheels",
+      "handle quality",
+      "zipper issue"
     ],
-    "valueScore": 19.97
+    "valueScore": 19.2
   }
 ]
