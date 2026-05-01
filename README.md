@@ -1,4 +1,5 @@
-# 🧠 E-Commerce Product Insights Pipeline
+# MUNSHOT internship assignment
+
 
 A full-stack data pipeline that scrapes product data from e-commerce platforms, processes it using LLM-based analysis, and visualizes insights through an interactive dashboard.
 
