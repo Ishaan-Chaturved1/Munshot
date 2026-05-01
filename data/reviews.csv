@@ -1,0 +1,721 @@
+review_id,product_id,brand,rating,sentiment,aspect,theme,polarity,review_text
+SAF-01-R01,SAF-01,Safari,3,56,handle,lightweight body,positive,The handle felt reliable on a business trip and the lightweight body stood out.
+SAF-01-R02,SAF-01,Safari,3,64,size,deal pricing,positive,"I liked the deal pricing, especially because the size did not need extra care."
+SAF-01-R03,SAF-01,Safari,2,43,durability,handle wobble,negative,"Useful for short travel, though handle wobble affects confidence in the durability."
+SAF-01-R04,SAF-01,Safari,4,74,wheels,deal pricing,positive,"I liked the deal pricing, especially because the wheels did not need extra care."
+SAF-01-R05,SAF-01,Safari,2,46,durability,lightweight body,positive,"The product feels practical, with lightweight body and dependable durability."
+SAF-01-R06,SAF-01,Safari,3,64,value,deal pricing,positive,"I liked the deal pricing, especially because the value did not need extra care."
+SAF-01-R07,SAF-01,Safari,4,73,wheels,lightweight body,positive,Good lightweight body for the price; the suitcase handled train travel well.
+SAF-01-R08,SAF-01,Safari,1,20,material,shell scuffs,negative,"Useful for short travel, though shell scuffs affects confidence in the material."
+SAF-01-R09,SAF-01,Safari,3,65,handle,deal pricing,positive,"I liked the deal pricing, especially because the handle did not need extra care."
+SAF-01-R10,SAF-01,Safari,3,56,size,lightweight body,positive,Good lightweight body for the price; the suitcase handled train travel well.
+SAF-01-R11,SAF-01,Safari,3,63,durability,deal pricing,positive,Good deal pricing for the price; the suitcase handled airport travel well.
+SAF-01-R12,SAF-01,Safari,3,54,value,lightweight body,positive,"I liked the lightweight body, especially because the value did not need extra care."
+SAF-02-R01,SAF-02,Safari,3,59,durability,roomy packing,positive,"I liked the roomy packing, especially because the durability did not need extra care."
+SAF-02-R02,SAF-02,Safari,2,50,handle,roomy packing,positive,"The product feels practical, with roomy packing and dependable handle."
+SAF-02-R03,SAF-02,Safari,2,38,handle,shell scuffs,negative,"Decent suitcase, but the shell scuffs makes the handle feel less premium."
+SAF-02-R04,SAF-02,Safari,2,50,zipper,easy rolling,positive,"I liked the easy rolling, especially because the zipper did not need extra care."
+SAF-02-R05,SAF-02,Safari,2,31,durability,shell scuffs,negative,The durability needs improvement; I noticed shell scuffs after weekend use.
+SAF-02-R06,SAF-02,Safari,1,25,wheels,handle wobble,negative,"The price is fine, yet handle wobble showed up around the wheels."
+SAF-02-R07,SAF-02,Safari,4,75,durability,roomy packing,positive,"I liked the roomy packing, especially because the durability did not need extra care."
+SAF-02-R08,SAF-02,Safari,2,33,material,zipper snags,negative,"Decent suitcase, but the zipper snags makes the material feel less premium."
+SAF-02-R09,SAF-02,Safari,3,51,size,roomy packing,positive,The size felt reliable on a airport trip and the roomy packing stood out.
+SAF-02-R10,SAF-02,Safari,1,29,handle,handle wobble,negative,The handle needs improvement; I noticed handle wobble after train use.
+SAF-02-R11,SAF-02,Safari,2,46,wheels,shell scuffs,negative,"Useful for short travel, though shell scuffs affects confidence in the wheels."
+SAF-02-R12,SAF-02,Safari,1,15,durability,shell scuffs,negative,"Useful for short travel, though shell scuffs affects confidence in the durability."
+SAF-03-R01,SAF-03,Safari,2,31,wheels,handle wobble,negative,"Decent suitcase, but the handle wobble makes the wheels feel less premium."
+SAF-03-R02,SAF-03,Safari,2,38,handle,zipper snags,negative,The handle needs improvement; I noticed zipper snags after airport use.
+SAF-03-R03,SAF-03,Safari,2,44,handle,shell scuffs,negative,The handle needs improvement; I noticed shell scuffs after airport use.
+SAF-03-R04,SAF-03,Safari,2,44,durability,deal pricing,positive,"The product feels practical, with deal pricing and dependable durability."
+SAF-03-R05,SAF-03,Safari,3,54,size,easy rolling,positive,"The product feels practical, with easy rolling and dependable size."
+SAF-03-R06,SAF-03,Safari,3,64,durability,roomy packing,positive,"The product feels practical, with roomy packing and dependable durability."
+SAF-03-R07,SAF-03,Safari,2,41,value,deal pricing,positive,The value felt reliable on a airport trip and the deal pricing stood out.
+SAF-03-R08,SAF-03,Safari,2,31,material,easy rolling,positive,The material felt reliable on a train trip and the easy rolling stood out.
+SAF-03-R09,SAF-03,Safari,2,47,zipper,easy rolling,positive,Good easy rolling for the price; the suitcase handled train travel well.
+SAF-03-R10,SAF-03,Safari,2,33,zipper,shell scuffs,negative,The zipper needs improvement; I noticed shell scuffs after airport use.
+SAF-03-R11,SAF-03,Safari,2,50,value,zipper snags,negative,The value needs improvement; I noticed zipper snags after train use.
+SAF-03-R12,SAF-03,Safari,2,50,zipper,deal pricing,positive,Good deal pricing for the price; the suitcase handled family travel well.
+SAF-04-R01,SAF-04,Safari,3,65,wheels,easy rolling,positive,The wheels felt reliable on a business trip and the easy rolling stood out.
+SAF-04-R02,SAF-04,Safari,3,62,handle,deal pricing,positive,The handle felt reliable on a business trip and the deal pricing stood out.
+SAF-04-R03,SAF-04,Safari,3,63,wheels,easy rolling,positive,The wheels felt reliable on a airport trip and the easy rolling stood out.
+SAF-04-R04,SAF-04,Safari,2,36,handle,zipper snags,negative,The handle needs improvement; I noticed zipper snags after business use.
+SAF-04-R05,SAF-04,Safari,4,71,size,deal pricing,positive,"I liked the deal pricing, especially because the size did not need extra care."
+SAF-04-R06,SAF-04,Safari,3,63,handle,roomy packing,positive,"I liked the roomy packing, especially because the handle did not need extra care."
+SAF-04-R07,SAF-04,Safari,3,57,wheels,easy rolling,positive,"The product feels practical, with easy rolling and dependable wheels."
+SAF-04-R08,SAF-04,Safari,3,58,size,easy rolling,positive,"I liked the easy rolling, especially because the size did not need extra care."
+SAF-04-R09,SAF-04,Safari,2,39,handle,handle wobble,negative,"The price is fine, yet handle wobble showed up around the handle."
+SAF-04-R10,SAF-04,Safari,3,51,value,zipper snags,negative,The value needs improvement; I noticed zipper snags after business use.
+SAF-04-R11,SAF-04,Safari,3,64,wheels,deal pricing,positive,Good deal pricing for the price; the suitcase handled business travel well.
+SAF-04-R12,SAF-04,Safari,4,84,size,roomy packing,positive,Good roomy packing for the price; the suitcase handled weekend travel well.
+SAF-05-R01,SAF-05,Safari,4,79,durability,lightweight body,positive,"I liked the lightweight body, especially because the durability did not need extra care."
+SAF-05-R02,SAF-05,Safari,4,82,wheels,lightweight body,positive,Good lightweight body for the price; the suitcase handled business travel well.
+SAF-05-R03,SAF-05,Safari,4,71,size,easy rolling,positive,Good easy rolling for the price; the suitcase handled weekend travel well.
+SAF-05-R04,SAF-05,Safari,3,51,material,shell scuffs,negative,"Decent suitcase, but the shell scuffs makes the material feel less premium."
+SAF-05-R05,SAF-05,Safari,4,88,value,easy rolling,positive,"The product feels practical, with easy rolling and dependable value."
+SAF-05-R06,SAF-05,Safari,2,47,zipper,shell scuffs,negative,The zipper needs improvement; I noticed shell scuffs after train use.
+SAF-05-R07,SAF-05,Safari,4,79,value,easy rolling,positive,"The product feels practical, with easy rolling and dependable value."
+SAF-05-R08,SAF-05,Safari,3,56,wheels,roomy packing,positive,"The product feels practical, with roomy packing and dependable wheels."
+SAF-05-R09,SAF-05,Safari,2,40,handle,shell scuffs,negative,"Useful for short travel, though shell scuffs affects confidence in the handle."
+SAF-05-R10,SAF-05,Safari,4,87,handle,roomy packing,positive,"The product feels practical, with roomy packing and dependable handle."
+SAF-05-R11,SAF-05,Safari,3,67,value,lightweight body,positive,"I liked the lightweight body, especially because the value did not need extra care."
+SAF-05-R12,SAF-05,Safari,4,82,wheels,lightweight body,positive,"I liked the lightweight body, especially because the wheels did not need extra care."
+SAF-06-R01,SAF-06,Safari,3,65,wheels,roomy packing,positive,Good roomy packing for the price; the suitcase handled weekend travel well.
+SAF-06-R02,SAF-06,Safari,4,70,value,lightweight body,positive,The value felt reliable on a weekend trip and the lightweight body stood out.
+SAF-06-R03,SAF-06,Safari,3,61,zipper,lightweight body,positive,"I liked the lightweight body, especially because the zipper did not need extra care."
+SAF-06-R04,SAF-06,Safari,4,72,zipper,lightweight body,positive,Good lightweight body for the price; the suitcase handled business travel well.
+SAF-06-R05,SAF-06,Safari,3,65,size,roomy packing,positive,The size felt reliable on a business trip and the roomy packing stood out.
+SAF-06-R06,SAF-06,Safari,4,73,zipper,roomy packing,positive,"The product feels practical, with roomy packing and dependable zipper."
+SAF-06-R07,SAF-06,Safari,3,64,zipper,lightweight body,positive,Good lightweight body for the price; the suitcase handled business travel well.
+SAF-06-R08,SAF-06,Safari,3,61,durability,deal pricing,positive,"I liked the deal pricing, especially because the durability did not need extra care."
+SAF-06-R09,SAF-06,Safari,2,44,wheels,shell scuffs,negative,The wheels needs improvement; I noticed shell scuffs after airport use.
+SAF-06-R10,SAF-06,Safari,4,78,size,lightweight body,positive,Good lightweight body for the price; the suitcase handled family travel well.
+SAF-06-R11,SAF-06,Safari,4,81,handle,deal pricing,positive,The handle felt reliable on a airport trip and the deal pricing stood out.
+SAF-06-R12,SAF-06,Safari,2,32,handle,shell scuffs,negative,"Useful for short travel, though shell scuffs affects confidence in the handle."
+SAF-07-R01,SAF-07,Safari,2,44,zipper,shell scuffs,negative,"The price is fine, yet shell scuffs showed up around the zipper."
+SAF-07-R02,SAF-07,Safari,1,26,zipper,zipper snags,negative,"Decent suitcase, but the zipper snags makes the zipper feel less premium."
+SAF-07-R03,SAF-07,Safari,3,66,material,easy rolling,positive,Good easy rolling for the price; the suitcase handled business travel well.
+SAF-07-R04,SAF-07,Safari,4,75,handle,deal pricing,positive,"The product feels practical, with deal pricing and dependable handle."
+SAF-07-R05,SAF-07,Safari,2,39,zipper,handle wobble,negative,"Useful for short travel, though handle wobble affects confidence in the zipper."
+SAF-07-R06,SAF-07,Safari,4,76,zipper,roomy packing,positive,The zipper felt reliable on a business trip and the roomy packing stood out.
+SAF-07-R07,SAF-07,Safari,3,68,material,deal pricing,positive,"I liked the deal pricing, especially because the material did not need extra care."
+SAF-07-R08,SAF-07,Safari,2,50,size,easy rolling,positive,Good easy rolling for the price; the suitcase handled family travel well.
+SAF-07-R09,SAF-07,Safari,3,57,zipper,roomy packing,positive,The zipper felt reliable on a family trip and the roomy packing stood out.
+SAF-07-R10,SAF-07,Safari,3,52,handle,shell scuffs,negative,The handle needs improvement; I noticed shell scuffs after family use.
+SAF-07-R11,SAF-07,Safari,3,64,wheels,easy rolling,positive,The wheels felt reliable on a family trip and the easy rolling stood out.
+SAF-07-R12,SAF-07,Safari,3,64,zipper,roomy packing,positive,"I liked the roomy packing, especially because the zipper did not need extra care."
+SAF-08-R01,SAF-08,Safari,2,40,handle,zipper snags,negative,The handle needs improvement; I noticed zipper snags after airport use.
+SAF-08-R02,SAF-08,Safari,1,25,value,shell scuffs,negative,The value needs improvement; I noticed shell scuffs after business use.
+SAF-08-R03,SAF-08,Safari,3,56,zipper,easy rolling,positive,The zipper felt reliable on a weekend trip and the easy rolling stood out.
+SAF-08-R04,SAF-08,Safari,2,35,size,shell scuffs,negative,The size needs improvement; I noticed shell scuffs after train use.
+SAF-08-R05,SAF-08,Safari,2,48,size,shell scuffs,negative,The size needs improvement; I noticed shell scuffs after family use.
+SAF-08-R06,SAF-08,Safari,3,56,handle,lightweight body,positive,The handle felt reliable on a business trip and the lightweight body stood out.
+SAF-08-R07,SAF-08,Safari,2,35,handle,handle wobble,negative,The handle needs improvement; I noticed handle wobble after business use.
+SAF-08-R08,SAF-08,Safari,2,30,value,handle wobble,negative,The value needs improvement; I noticed handle wobble after weekend use.
+SAF-08-R09,SAF-08,Safari,3,53,material,lightweight body,positive,The material felt reliable on a family trip and the lightweight body stood out.
+SAF-08-R10,SAF-08,Safari,2,37,zipper,shell scuffs,negative,"The price is fine, yet shell scuffs showed up around the zipper."
+SAF-08-R11,SAF-08,Safari,1,22,handle,zipper snags,negative,"The price is fine, yet zipper snags showed up around the handle."
+SAF-08-R12,SAF-08,Safari,2,48,size,lightweight body,positive,"I liked the lightweight body, especially because the size did not need extra care."
+SAF-09-R01,SAF-09,Safari,2,44,zipper,shell scuffs,negative,"Decent suitcase, but the shell scuffs makes the zipper feel less premium."
+SAF-09-R02,SAF-09,Safari,3,54,material,handle wobble,negative,The material needs improvement; I noticed handle wobble after business use.
+SAF-09-R03,SAF-09,Safari,2,33,handle,shell scuffs,negative,"Useful for short travel, though shell scuffs affects confidence in the handle."
+SAF-09-R04,SAF-09,Safari,4,74,zipper,deal pricing,positive,The zipper felt reliable on a airport trip and the deal pricing stood out.
+SAF-09-R05,SAF-09,Safari,3,68,durability,deal pricing,positive,Good deal pricing for the price; the suitcase handled family travel well.
+SAF-09-R06,SAF-09,Safari,4,84,zipper,deal pricing,positive,"I liked the deal pricing, especially because the zipper did not need extra care."
+SAF-09-R07,SAF-09,Safari,4,74,material,deal pricing,positive,"I liked the deal pricing, especially because the material did not need extra care."
+SAF-09-R08,SAF-09,Safari,4,87,value,roomy packing,positive,Good roomy packing for the price; the suitcase handled train travel well.
+SAF-09-R09,SAF-09,Safari,4,89,material,deal pricing,positive,"I liked the deal pricing, especially because the material did not need extra care."
+SAF-09-R10,SAF-09,Safari,4,70,material,easy rolling,positive,The material felt reliable on a business trip and the easy rolling stood out.
+SAF-09-R11,SAF-09,Safari,4,71,wheels,easy rolling,positive,"I liked the easy rolling, especially because the wheels did not need extra care."
+SAF-09-R12,SAF-09,Safari,3,68,size,easy rolling,positive,"I liked the easy rolling, especially because the size did not need extra care."
+SAF-10-R01,SAF-10,Safari,4,70,wheels,deal pricing,positive,Good deal pricing for the price; the suitcase handled weekend travel well.
+SAF-10-R02,SAF-10,Safari,4,73,wheels,easy rolling,positive,"The product feels practical, with easy rolling and dependable wheels."
+SAF-10-R03,SAF-10,Safari,3,54,handle,deal pricing,positive,"The product feels practical, with deal pricing and dependable handle."
+SAF-10-R04,SAF-10,Safari,2,42,size,handle wobble,negative,The size needs improvement; I noticed handle wobble after business use.
+SAF-10-R05,SAF-10,Safari,2,35,value,shell scuffs,negative,"Decent suitcase, but the shell scuffs makes the value feel less premium."
+SAF-10-R06,SAF-10,Safari,3,58,size,easy rolling,positive,The size felt reliable on a train trip and the easy rolling stood out.
+SAF-10-R07,SAF-10,Safari,3,62,durability,lightweight body,positive,"The product feels practical, with lightweight body and dependable durability."
+SAF-10-R08,SAF-10,Safari,2,46,wheels,handle wobble,negative,"Decent suitcase, but the handle wobble makes the wheels feel less premium."
+SAF-10-R09,SAF-10,Safari,1,29,size,zipper snags,negative,"Decent suitcase, but the zipper snags makes the size feel less premium."
+SAF-10-R10,SAF-10,Safari,2,45,wheels,shell scuffs,negative,The wheels needs improvement; I noticed shell scuffs after train use.
+SAF-10-R11,SAF-10,Safari,2,30,durability,zipper snags,negative,"The price is fine, yet zipper snags showed up around the durability."
+SAF-10-R12,SAF-10,Safari,2,43,size,handle wobble,negative,"Useful for short travel, though handle wobble affects confidence in the size."
+SKY-01-R01,SKY-01,Skybags,4,76,zipper,stylish colors,positive,"The product feels practical, with stylish colors and dependable zipper."
+SKY-01-R02,SKY-01,Skybags,3,69,wheels,lightweight body,positive,"The product feels practical, with lightweight body and dependable wheels."
+SKY-01-R03,SKY-01,Skybags,4,77,durability,lightweight body,positive,The durability felt reliable on a family trip and the lightweight body stood out.
+SKY-01-R04,SKY-01,Skybags,3,65,value,lightweight body,positive,The value felt reliable on a family trip and the lightweight body stood out.
+SKY-01-R05,SKY-01,Skybags,4,80,material,lightweight body,positive,The material felt reliable on a business trip and the lightweight body stood out.
+SKY-01-R06,SKY-01,Skybags,2,46,durability,zipper snags,negative,"Useful for short travel, though zipper snags affects confidence in the durability."
+SKY-01-R07,SKY-01,Skybags,3,61,material,good compartments,positive,"The product feels practical, with good compartments and dependable material."
+SKY-01-R08,SKY-01,Skybags,3,61,material,stylish colors,positive,"The product feels practical, with stylish colors and dependable material."
+SKY-01-R09,SKY-01,Skybags,4,70,size,good compartments,positive,Good good compartments for the price; the suitcase handled airport travel well.
+SKY-01-R10,SKY-01,Skybags,3,64,handle,stylish colors,positive,The handle felt reliable on a family trip and the stylish colors stood out.
+SKY-01-R11,SKY-01,Skybags,2,33,value,scratches quickly,negative,"Decent suitcase, but the scratches quickly makes the value feel less premium."
+SKY-01-R12,SKY-01,Skybags,4,72,value,lightweight body,positive,"The product feels practical, with lightweight body and dependable value."
+SKY-02-R01,SKY-02,Skybags,3,62,durability,zipper snags,negative,"The price is fine, yet zipper snags showed up around the durability."
+SKY-02-R02,SKY-02,Skybags,2,45,size,zipper snags,negative,"Useful for short travel, though zipper snags affects confidence in the size."
+SKY-02-R03,SKY-02,Skybags,5,96,zipper,lightweight body,positive,"The product feels practical, with lightweight body and dependable zipper."
+SKY-02-R04,SKY-02,Skybags,4,72,value,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable value."
+SKY-02-R05,SKY-02,Skybags,3,69,durability,stylish colors,positive,"The product feels practical, with stylish colors and dependable durability."
+SKY-02-R06,SKY-02,Skybags,4,88,handle,smooth wheels,positive,"I liked the smooth wheels, especially because the handle did not need extra care."
+SKY-02-R07,SKY-02,Skybags,3,60,wheels,zipper snags,negative,"Useful for short travel, though zipper snags affects confidence in the wheels."
+SKY-02-R08,SKY-02,Skybags,4,80,material,stylish colors,positive,"The product feels practical, with stylish colors and dependable material."
+SKY-02-R09,SKY-02,Skybags,3,68,value,lock feels basic,negative,"Useful for short travel, though lock feels basic affects confidence in the value."
+SKY-02-R10,SKY-02,Skybags,3,52,size,scratches quickly,negative,The size needs improvement; I noticed scratches quickly after train use.
+SKY-02-R11,SKY-02,Skybags,4,76,handle,stylish colors,positive,The handle felt reliable on a airport trip and the stylish colors stood out.
+SKY-02-R12,SKY-02,Skybags,4,81,material,lightweight body,positive,The material felt reliable on a airport trip and the lightweight body stood out.
+SKY-03-R01,SKY-03,Skybags,3,63,size,good compartments,positive,Good good compartments for the price; the suitcase handled train travel well.
+SKY-03-R02,SKY-03,Skybags,4,75,zipper,good compartments,positive,"I liked the good compartments, especially because the zipper did not need extra care."
+SKY-03-R03,SKY-03,Skybags,4,70,material,zipper snags,negative,"Decent suitcase, but the zipper snags makes the material feel less premium."
+SKY-03-R04,SKY-03,Skybags,4,84,durability,good compartments,positive,"I liked the good compartments, especially because the durability did not need extra care."
+SKY-03-R05,SKY-03,Skybags,3,57,zipper,lock feels basic,negative,"Useful for short travel, though lock feels basic affects confidence in the zipper."
+SKY-03-R06,SKY-03,Skybags,4,80,material,stylish colors,positive,The material felt reliable on a family trip and the stylish colors stood out.
+SKY-03-R07,SKY-03,Skybags,4,87,value,stylish colors,positive,The value felt reliable on a weekend trip and the stylish colors stood out.
+SKY-03-R08,SKY-03,Skybags,2,43,size,lock feels basic,negative,"The price is fine, yet lock feels basic showed up around the size."
+SKY-03-R09,SKY-03,Skybags,3,61,material,stylish colors,positive,Good stylish colors for the price; the suitcase handled airport travel well.
+SKY-03-R10,SKY-03,Skybags,3,60,wheels,good compartments,positive,"I liked the good compartments, especially because the wheels did not need extra care."
+SKY-03-R11,SKY-03,Skybags,4,77,material,good compartments,positive,"The product feels practical, with good compartments and dependable material."
+SKY-03-R12,SKY-03,Skybags,3,55,size,zipper snags,negative,"The price is fine, yet zipper snags showed up around the size."
+SKY-04-R01,SKY-04,Skybags,3,62,durability,scratches quickly,negative,"Useful for short travel, though scratches quickly affects confidence in the durability."
+SKY-04-R02,SKY-04,Skybags,3,67,wheels,stylish colors,positive,"I liked the stylish colors, especially because the wheels did not need extra care."
+SKY-04-R03,SKY-04,Skybags,3,56,durability,stylish colors,positive,"I liked the stylish colors, especially because the durability did not need extra care."
+SKY-04-R04,SKY-04,Skybags,3,62,zipper,good compartments,positive,The zipper felt reliable on a business trip and the good compartments stood out.
+SKY-04-R05,SKY-04,Skybags,2,39,material,scratches quickly,negative,"Decent suitcase, but the scratches quickly makes the material feel less premium."
+SKY-04-R06,SKY-04,Skybags,2,36,durability,zipper snags,negative,"Useful for short travel, though zipper snags affects confidence in the durability."
+SKY-04-R07,SKY-04,Skybags,4,75,material,good compartments,positive,"The product feels practical, with good compartments and dependable material."
+SKY-04-R08,SKY-04,Skybags,4,75,material,stylish colors,positive,"The product feels practical, with stylish colors and dependable material."
+SKY-04-R09,SKY-04,Skybags,3,53,zipper,lock feels basic,negative,The zipper needs improvement; I noticed lock feels basic after weekend use.
+SKY-04-R10,SKY-04,Skybags,3,60,handle,stylish colors,positive,"The product feels practical, with stylish colors and dependable handle."
+SKY-04-R11,SKY-04,Skybags,1,23,wheels,zipper snags,negative,"The price is fine, yet zipper snags showed up around the wheels."
+SKY-04-R12,SKY-04,Skybags,3,64,handle,stylish colors,positive,The handle felt reliable on a family trip and the stylish colors stood out.
+SKY-05-R01,SKY-05,Skybags,2,33,handle,scratches quickly,negative,"Decent suitcase, but the scratches quickly makes the handle feel less premium."
+SKY-05-R02,SKY-05,Skybags,1,24,wheels,scratches quickly,negative,"The price is fine, yet scratches quickly showed up around the wheels."
+SKY-05-R03,SKY-05,Skybags,2,44,material,scratches quickly,negative,"Decent suitcase, but the scratches quickly makes the material feel less premium."
+SKY-05-R04,SKY-05,Skybags,3,66,size,good compartments,positive,"I liked the good compartments, especially because the size did not need extra care."
+SKY-05-R05,SKY-05,Skybags,2,40,handle,good compartments,positive,"The product feels practical, with good compartments and dependable handle."
+SKY-05-R06,SKY-05,Skybags,3,52,size,stylish colors,positive,The size felt reliable on a family trip and the stylish colors stood out.
+SKY-05-R07,SKY-05,Skybags,2,32,wheels,lightweight body,positive,"I liked the lightweight body, especially because the wheels did not need extra care."
+SKY-05-R08,SKY-05,Skybags,2,37,zipper,lock feels basic,negative,The zipper needs improvement; I noticed lock feels basic after family use.
+SKY-05-R09,SKY-05,Skybags,1,28,wheels,lock feels basic,negative,The wheels needs improvement; I noticed lock feels basic after train use.
+SKY-05-R10,SKY-05,Skybags,3,59,size,lightweight body,positive,"I liked the lightweight body, especially because the size did not need extra care."
+SKY-05-R11,SKY-05,Skybags,1,21,material,scratches quickly,negative,"Useful for short travel, though scratches quickly affects confidence in the material."
+SKY-05-R12,SKY-05,Skybags,2,30,value,scratches quickly,negative,"Decent suitcase, but the scratches quickly makes the value feel less premium."
+SKY-06-R01,SKY-06,Skybags,3,55,zipper,lock feels basic,negative,The zipper needs improvement; I noticed lock feels basic after family use.
+SKY-06-R02,SKY-06,Skybags,4,78,material,good compartments,positive,Good good compartments for the price; the suitcase handled business travel well.
+SKY-06-R03,SKY-06,Skybags,4,71,size,good compartments,positive,"I liked the good compartments, especially because the size did not need extra care."
+SKY-06-R04,SKY-06,Skybags,2,43,wheels,lock feels basic,negative,"The price is fine, yet lock feels basic showed up around the wheels."
+SKY-06-R05,SKY-06,Skybags,4,81,size,stylish colors,positive,Good stylish colors for the price; the suitcase handled airport travel well.
+SKY-06-R06,SKY-06,Skybags,4,84,material,good compartments,positive,The material felt reliable on a weekend trip and the good compartments stood out.
+SKY-06-R07,SKY-06,Skybags,3,65,value,smooth wheels,positive,The value felt reliable on a weekend trip and the smooth wheels stood out.
+SKY-06-R08,SKY-06,Skybags,3,67,durability,smooth wheels,positive,"I liked the smooth wheels, especially because the durability did not need extra care."
+SKY-06-R09,SKY-06,Skybags,3,67,value,stylish colors,positive,Good stylish colors for the price; the suitcase handled train travel well.
+SKY-06-R10,SKY-06,Skybags,4,72,wheels,stylish colors,positive,Good stylish colors for the price; the suitcase handled family travel well.
+SKY-06-R11,SKY-06,Skybags,4,72,handle,smooth wheels,positive,"I liked the smooth wheels, especially because the handle did not need extra care."
+SKY-06-R12,SKY-06,Skybags,4,83,handle,stylish colors,positive,Good stylish colors for the price; the suitcase handled business travel well.
+SKY-07-R01,SKY-07,Skybags,3,64,durability,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable durability."
+SKY-07-R02,SKY-07,Skybags,4,70,wheels,good compartments,positive,The wheels felt reliable on a train trip and the good compartments stood out.
+SKY-07-R03,SKY-07,Skybags,4,72,value,lightweight body,positive,Good lightweight body for the price; the suitcase handled airport travel well.
+SKY-07-R04,SKY-07,Skybags,3,64,zipper,good compartments,positive,Good good compartments for the price; the suitcase handled train travel well.
+SKY-07-R05,SKY-07,Skybags,4,88,handle,good compartments,positive,"I liked the good compartments, especially because the handle did not need extra care."
+SKY-07-R06,SKY-07,Skybags,4,79,wheels,smooth wheels,positive,"I liked the smooth wheels, especially because the wheels did not need extra care."
+SKY-07-R07,SKY-07,Skybags,3,69,durability,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable durability."
+SKY-07-R08,SKY-07,Skybags,4,80,zipper,good compartments,positive,"I liked the good compartments, especially because the zipper did not need extra care."
+SKY-07-R09,SKY-07,Skybags,3,62,handle,lightweight body,positive,"The product feels practical, with lightweight body and dependable handle."
+SKY-07-R10,SKY-07,Skybags,2,42,material,scratches quickly,negative,"Decent suitcase, but the scratches quickly makes the material feel less premium."
+SKY-07-R11,SKY-07,Skybags,2,42,size,lock feels basic,negative,The size needs improvement; I noticed lock feels basic after weekend use.
+SKY-07-R12,SKY-07,Skybags,4,70,value,good compartments,positive,Good good compartments for the price; the suitcase handled train travel well.
+SKY-08-R01,SKY-08,Skybags,2,39,material,lock feels basic,negative,"Decent suitcase, but the lock feels basic makes the material feel less premium."
+SKY-08-R02,SKY-08,Skybags,3,52,wheels,lock feels basic,negative,"The price is fine, yet lock feels basic showed up around the wheels."
+SKY-08-R03,SKY-08,Skybags,4,88,zipper,lightweight body,positive,The zipper felt reliable on a airport trip and the lightweight body stood out.
+SKY-08-R04,SKY-08,Skybags,4,78,size,stylish colors,positive,"The product feels practical, with stylish colors and dependable size."
+SKY-08-R05,SKY-08,Skybags,4,82,wheels,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable wheels."
+SKY-08-R06,SKY-08,Skybags,3,66,size,lightweight body,positive,Good lightweight body for the price; the suitcase handled airport travel well.
+SKY-08-R07,SKY-08,Skybags,3,67,durability,lightweight body,positive,The durability felt reliable on a train trip and the lightweight body stood out.
+SKY-08-R08,SKY-08,Skybags,4,72,size,lightweight body,positive,Good lightweight body for the price; the suitcase handled weekend travel well.
+SKY-08-R09,SKY-08,Skybags,4,75,zipper,lightweight body,positive,"The product feels practical, with lightweight body and dependable zipper."
+SKY-08-R10,SKY-08,Skybags,2,35,material,lock feels basic,negative,The material needs improvement; I noticed lock feels basic after weekend use.
+SKY-08-R11,SKY-08,Skybags,4,72,zipper,smooth wheels,positive,"I liked the smooth wheels, especially because the zipper did not need extra care."
+SKY-08-R12,SKY-08,Skybags,3,66,wheels,zipper snags,negative,"Decent suitcase, but the zipper snags makes the wheels feel less premium."
+SKY-09-R01,SKY-09,Skybags,2,36,durability,lock feels basic,negative,The durability needs improvement; I noticed lock feels basic after weekend use.
+SKY-09-R02,SKY-09,Skybags,3,58,handle,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled weekend travel well.
+SKY-09-R03,SKY-09,Skybags,2,47,handle,scratches quickly,negative,"Decent suitcase, but the scratches quickly makes the handle feel less premium."
+SKY-09-R04,SKY-09,Skybags,2,41,size,zipper snags,negative,The size needs improvement; I noticed zipper snags after weekend use.
+SKY-09-R05,SKY-09,Skybags,2,45,handle,lock feels basic,negative,"Useful for short travel, though lock feels basic affects confidence in the handle."
+SKY-09-R06,SKY-09,Skybags,2,46,durability,zipper snags,negative,"Useful for short travel, though zipper snags affects confidence in the durability."
+SKY-09-R07,SKY-09,Skybags,4,78,durability,good compartments,positive,Good good compartments for the price; the suitcase handled family travel well.
+SKY-09-R08,SKY-09,Skybags,3,63,material,stylish colors,positive,"The product feels practical, with stylish colors and dependable material."
+SKY-09-R09,SKY-09,Skybags,3,67,zipper,good compartments,positive,"The product feels practical, with good compartments and dependable zipper."
+SKY-09-R10,SKY-09,Skybags,2,50,value,stylish colors,positive,Good stylish colors for the price; the suitcase handled business travel well.
+SKY-09-R11,SKY-09,Skybags,4,74,wheels,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable wheels."
+SKY-09-R12,SKY-09,Skybags,2,33,value,lock feels basic,negative,The value needs improvement; I noticed lock feels basic after weekend use.
+SKY-10-R01,SKY-10,Skybags,4,74,size,stylish colors,positive,"I liked the stylish colors, especially because the size did not need extra care."
+SKY-10-R02,SKY-10,Skybags,5,96,wheels,stylish colors,positive,"I liked the stylish colors, especially because the wheels did not need extra care."
+SKY-10-R03,SKY-10,Skybags,4,70,value,stylish colors,positive,"The product feels practical, with stylish colors and dependable value."
+SKY-10-R04,SKY-10,Skybags,3,67,wheels,lightweight body,positive,The wheels felt reliable on a weekend trip and the lightweight body stood out.
+SKY-10-R05,SKY-10,Skybags,4,77,size,lightweight body,positive,"The product feels practical, with lightweight body and dependable size."
+SKY-10-R06,SKY-10,Skybags,4,76,zipper,lightweight body,positive,"The product feels practical, with lightweight body and dependable zipper."
+SKY-10-R07,SKY-10,Skybags,3,64,size,stylish colors,positive,The size felt reliable on a train trip and the stylish colors stood out.
+SKY-10-R08,SKY-10,Skybags,3,63,size,lightweight body,positive,"I liked the lightweight body, especially because the size did not need extra care."
+SKY-10-R09,SKY-10,Skybags,3,63,durability,lightweight body,positive,The durability felt reliable on a business trip and the lightweight body stood out.
+SKY-10-R10,SKY-10,Skybags,4,70,size,good compartments,positive,The size felt reliable on a family trip and the good compartments stood out.
+SKY-10-R11,SKY-10,Skybags,3,54,durability,scratches quickly,negative,"Useful for short travel, though scratches quickly affects confidence in the durability."
+SKY-10-R12,SKY-10,Skybags,4,71,material,lightweight body,positive,Good lightweight body for the price; the suitcase handled airport travel well.
+AME-01-R01,AME-01,American Tourister,4,84,wheels,brand trust,positive,"The product feels practical, with brand trust and dependable wheels."
+AME-01-R02,AME-01,American Tourister,3,56,material,delivery dents,negative,"Useful for short travel, though delivery dents affects confidence in the material."
+AME-01-R03,AME-01,American Tourister,4,74,value,brand trust,positive,Good brand trust for the price; the suitcase handled airport travel well.
+AME-01-R04,AME-01,American Tourister,4,72,material,delivery dents,negative,The material needs improvement; I noticed delivery dents after weekend use.
+AME-01-R05,AME-01,American Tourister,4,86,durability,balanced weight,positive,"The product feels practical, with balanced weight and dependable durability."
+AME-01-R06,AME-01,American Tourister,4,73,material,balanced weight,positive,"I liked the balanced weight, especially because the material did not need extra care."
+AME-01-R07,AME-01,American Tourister,4,71,zipper,brand trust,positive,Good brand trust for the price; the suitcase handled airport travel well.
+AME-01-R08,AME-01,American Tourister,4,76,material,balanced weight,positive,"The product feels practical, with balanced weight and dependable material."
+AME-01-R09,AME-01,American Tourister,4,77,durability,brand trust,positive,"The product feels practical, with brand trust and dependable durability."
+AME-01-R10,AME-01,American Tourister,4,81,material,balanced weight,positive,The material felt reliable on a airport trip and the balanced weight stood out.
+AME-01-R11,AME-01,American Tourister,4,83,material,balanced weight,positive,Good balanced weight for the price; the suitcase handled business travel well.
+AME-01-R12,AME-01,American Tourister,4,77,wheels,balanced weight,positive,Good balanced weight for the price; the suitcase handled airport travel well.
+AME-02-R01,AME-02,American Tourister,4,80,handle,balanced weight,positive,"I liked the balanced weight, especially because the handle did not need extra care."
+AME-02-R02,AME-02,American Tourister,4,74,durability,delivery dents,negative,"Decent suitcase, but the delivery dents makes the durability feel less premium."
+AME-02-R03,AME-02,American Tourister,5,93,wheels,balanced weight,positive,"I liked the balanced weight, especially because the wheels did not need extra care."
+AME-02-R04,AME-02,American Tourister,3,53,durability,limited expandability,negative,"Useful for short travel, though limited expandability affects confidence in the durability."
+AME-02-R05,AME-02,American Tourister,5,96,zipper,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled airport travel well.
+AME-02-R06,AME-02,American Tourister,4,85,durability,brand trust,positive,"I liked the brand trust, especially because the durability did not need extra care."
+AME-02-R07,AME-02,American Tourister,4,86,material,brand trust,positive,Good brand trust for the price; the suitcase handled train travel well.
+AME-02-R08,AME-02,American Tourister,4,70,handle,balanced weight,positive,The handle felt reliable on a train trip and the balanced weight stood out.
+AME-02-R09,AME-02,American Tourister,5,96,value,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable value."
+AME-02-R10,AME-02,American Tourister,5,92,handle,balanced weight,positive,The handle felt reliable on a airport trip and the balanced weight stood out.
+AME-02-R11,AME-02,American Tourister,4,75,durability,balanced weight,positive,"The product feels practical, with balanced weight and dependable durability."
+AME-02-R12,AME-02,American Tourister,4,88,durability,brand trust,positive,The durability felt reliable on a family trip and the brand trust stood out.
+AME-03-R01,AME-03,American Tourister,4,80,handle,durable shell,positive,Good durable shell for the price; the suitcase handled weekend travel well.
+AME-03-R02,AME-03,American Tourister,4,75,material,delivery dents,negative,The material needs improvement; I noticed delivery dents after weekend use.
+AME-03-R03,AME-03,American Tourister,4,78,material,balanced weight,positive,Good balanced weight for the price; the suitcase handled airport travel well.
+AME-03-R04,AME-03,American Tourister,4,78,size,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled train travel well.
+AME-03-R05,AME-03,American Tourister,5,93,size,balanced weight,positive,"I liked the balanced weight, especially because the size did not need extra care."
+AME-03-R06,AME-03,American Tourister,4,77,value,balanced weight,positive,"I liked the balanced weight, especially because the value did not need extra care."
+AME-03-R07,AME-03,American Tourister,4,74,size,durable shell,positive,The size felt reliable on a weekend trip and the durable shell stood out.
+AME-03-R08,AME-03,American Tourister,4,87,zipper,durable shell,positive,Good durable shell for the price; the suitcase handled family travel well.
+AME-03-R09,AME-03,American Tourister,5,92,durability,smooth wheels,positive,The durability felt reliable on a family trip and the smooth wheels stood out.
+AME-03-R10,AME-03,American Tourister,5,94,handle,balanced weight,positive,"I liked the balanced weight, especially because the handle did not need extra care."
+AME-03-R11,AME-03,American Tourister,4,87,zipper,durable shell,positive,Good durable shell for the price; the suitcase handled airport travel well.
+AME-03-R12,AME-03,American Tourister,4,76,wheels,durable shell,positive,"I liked the durable shell, especially because the wheels did not need extra care."
+AME-04-R01,AME-04,American Tourister,4,76,size,durable shell,positive,"The product feels practical, with durable shell and dependable size."
+AME-04-R02,AME-04,American Tourister,4,84,size,durable shell,positive,"The product feels practical, with durable shell and dependable size."
+AME-04-R03,AME-04,American Tourister,4,81,wheels,durable shell,positive,The wheels felt reliable on a family trip and the durable shell stood out.
+AME-04-R04,AME-04,American Tourister,5,95,value,balanced weight,positive,The value felt reliable on a family trip and the balanced weight stood out.
+AME-04-R05,AME-04,American Tourister,4,84,durability,durable shell,positive,"I liked the durable shell, especially because the durability did not need extra care."
+AME-04-R06,AME-04,American Tourister,4,75,handle,brand trust,positive,"I liked the brand trust, especially because the handle did not need extra care."
+AME-04-R07,AME-04,American Tourister,4,84,size,durable shell,positive,"The product feels practical, with durable shell and dependable size."
+AME-04-R08,AME-04,American Tourister,4,76,handle,balanced weight,positive,The handle felt reliable on a family trip and the balanced weight stood out.
+AME-04-R09,AME-04,American Tourister,4,84,size,durable shell,positive,"I liked the durable shell, especially because the size did not need extra care."
+AME-04-R10,AME-04,American Tourister,4,78,wheels,balanced weight,positive,The wheels felt reliable on a train trip and the balanced weight stood out.
+AME-04-R11,AME-04,American Tourister,5,95,size,durable shell,positive,"The product feels practical, with durable shell and dependable size."
+AME-04-R12,AME-04,American Tourister,5,96,material,brand trust,positive,Good brand trust for the price; the suitcase handled family travel well.
+AME-05-R01,AME-05,American Tourister,4,88,zipper,balanced weight,positive,"I liked the balanced weight, especially because the zipper did not need extra care."
+AME-05-R02,AME-05,American Tourister,4,70,durability,brand trust,positive,Good brand trust for the price; the suitcase handled airport travel well.
+AME-05-R03,AME-05,American Tourister,5,92,size,balanced weight,positive,"The product feels practical, with balanced weight and dependable size."
+AME-05-R04,AME-05,American Tourister,5,94,wheels,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled airport travel well.
+AME-05-R05,AME-05,American Tourister,4,80,handle,brand trust,positive,"The product feels practical, with brand trust and dependable handle."
+AME-05-R06,AME-05,American Tourister,3,51,durability,limited expandability,negative,The durability needs improvement; I noticed limited expandability after train use.
+AME-05-R07,AME-05,American Tourister,4,76,material,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable material."
+AME-05-R08,AME-05,American Tourister,4,82,material,smooth wheels,positive,"I liked the smooth wheels, especially because the material did not need extra care."
+AME-05-R09,AME-05,American Tourister,4,77,handle,balanced weight,positive,"I liked the balanced weight, especially because the handle did not need extra care."
+AME-05-R10,AME-05,American Tourister,4,81,handle,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable handle."
+AME-05-R11,AME-05,American Tourister,4,81,value,smooth wheels,positive,"I liked the smooth wheels, especially because the value did not need extra care."
+AME-05-R12,AME-05,American Tourister,5,95,value,brand trust,positive,"I liked the brand trust, especially because the value did not need extra care."
+AME-06-R01,AME-06,American Tourister,3,58,material,delivery dents,negative,"Decent suitcase, but the delivery dents makes the material feel less premium."
+AME-06-R02,AME-06,American Tourister,4,80,size,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled train travel well.
+AME-06-R03,AME-06,American Tourister,4,83,material,balanced weight,positive,"The product feels practical, with balanced weight and dependable material."
+AME-06-R04,AME-06,American Tourister,3,56,zipper,higher price,negative,"Useful for short travel, though higher price affects confidence in the zipper."
+AME-06-R05,AME-06,American Tourister,3,59,material,balanced weight,positive,"I liked the balanced weight, especially because the material did not need extra care."
+AME-06-R06,AME-06,American Tourister,3,55,size,brand trust,positive,The size felt reliable on a train trip and the brand trust stood out.
+AME-06-R07,AME-06,American Tourister,4,72,wheels,brand trust,positive,"The product feels practical, with brand trust and dependable wheels."
+AME-06-R08,AME-06,American Tourister,2,41,material,higher price,negative,The material needs improvement; I noticed higher price after weekend use.
+AME-06-R09,AME-06,American Tourister,4,74,size,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable size."
+AME-06-R10,AME-06,American Tourister,3,67,value,brand trust,positive,The value felt reliable on a weekend trip and the brand trust stood out.
+AME-06-R11,AME-06,American Tourister,4,70,durability,balanced weight,positive,"I liked the balanced weight, especially because the durability did not need extra care."
+AME-06-R12,AME-06,American Tourister,2,45,durability,delivery dents,negative,"Decent suitcase, but the delivery dents makes the durability feel less premium."
+AME-07-R01,AME-07,American Tourister,4,74,wheels,durable shell,positive,"I liked the durable shell, especially because the wheels did not need extra care."
+AME-07-R02,AME-07,American Tourister,3,64,size,limited expandability,negative,The size needs improvement; I noticed limited expandability after weekend use.
+AME-07-R03,AME-07,American Tourister,4,77,handle,balanced weight,positive,The handle felt reliable on a train trip and the balanced weight stood out.
+AME-07-R04,AME-07,American Tourister,4,73,durability,balanced weight,positive,"I liked the balanced weight, especially because the durability did not need extra care."
+AME-07-R05,AME-07,American Tourister,4,82,material,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled train travel well.
+AME-07-R06,AME-07,American Tourister,4,86,material,balanced weight,positive,"The product feels practical, with balanced weight and dependable material."
+AME-07-R07,AME-07,American Tourister,3,59,value,delivery dents,negative,"Decent suitcase, but the delivery dents makes the value feel less premium."
+AME-07-R08,AME-07,American Tourister,2,44,size,higher price,negative,"Useful for short travel, though higher price affects confidence in the size."
+AME-07-R09,AME-07,American Tourister,5,92,size,durable shell,positive,The size felt reliable on a business trip and the durable shell stood out.
+AME-07-R10,AME-07,American Tourister,4,86,handle,balanced weight,positive,Good balanced weight for the price; the suitcase handled weekend travel well.
+AME-07-R11,AME-07,American Tourister,3,55,wheels,limited expandability,negative,"Decent suitcase, but the limited expandability makes the wheels feel less premium."
+AME-07-R12,AME-07,American Tourister,4,71,zipper,durable shell,positive,Good durable shell for the price; the suitcase handled business travel well.
+AME-08-R01,AME-08,American Tourister,4,70,durability,smooth wheels,positive,The durability felt reliable on a airport trip and the smooth wheels stood out.
+AME-08-R02,AME-08,American Tourister,2,49,wheels,limited expandability,negative,"The price is fine, yet limited expandability showed up around the wheels."
+AME-08-R03,AME-08,American Tourister,3,60,value,durable shell,positive,"The product feels practical, with durable shell and dependable value."
+AME-08-R04,AME-08,American Tourister,3,63,zipper,limited expandability,negative,The zipper needs improvement; I noticed limited expandability after business use.
+AME-08-R05,AME-08,American Tourister,4,82,wheels,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled train travel well.
+AME-08-R06,AME-08,American Tourister,4,73,value,durable shell,positive,The value felt reliable on a airport trip and the durable shell stood out.
+AME-08-R07,AME-08,American Tourister,2,33,durability,limited expandability,negative,"Useful for short travel, though limited expandability affects confidence in the durability."
+AME-08-R08,AME-08,American Tourister,4,70,material,durable shell,positive,Good durable shell for the price; the suitcase handled airport travel well.
+AME-08-R09,AME-08,American Tourister,4,74,zipper,brand trust,positive,The zipper felt reliable on a business trip and the brand trust stood out.
+AME-08-R10,AME-08,American Tourister,4,77,durability,brand trust,positive,The durability felt reliable on a train trip and the brand trust stood out.
+AME-08-R11,AME-08,American Tourister,2,35,zipper,limited expandability,negative,"Decent suitcase, but the limited expandability makes the zipper feel less premium."
+AME-08-R12,AME-08,American Tourister,4,70,handle,smooth wheels,positive,"I liked the smooth wheels, especially because the handle did not need extra care."
+AME-09-R01,AME-09,American Tourister,4,90,size,balanced weight,positive,"The product feels practical, with balanced weight and dependable size."
+AME-09-R02,AME-09,American Tourister,4,85,durability,balanced weight,positive,"The product feels practical, with balanced weight and dependable durability."
+AME-09-R03,AME-09,American Tourister,4,83,handle,balanced weight,positive,"The product feels practical, with balanced weight and dependable handle."
+AME-09-R04,AME-09,American Tourister,4,89,size,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable size."
+AME-09-R05,AME-09,American Tourister,4,82,zipper,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled airport travel well.
+AME-09-R06,AME-09,American Tourister,3,67,wheels,higher price,negative,"Decent suitcase, but the higher price makes the wheels feel less premium."
+AME-09-R07,AME-09,American Tourister,4,87,size,brand trust,positive,The size felt reliable on a business trip and the brand trust stood out.
+AME-09-R08,AME-09,American Tourister,4,78,handle,brand trust,positive,"The product feels practical, with brand trust and dependable handle."
+AME-09-R09,AME-09,American Tourister,3,60,material,higher price,negative,The material needs improvement; I noticed higher price after airport use.
+AME-09-R10,AME-09,American Tourister,4,88,handle,balanced weight,positive,Good balanced weight for the price; the suitcase handled family travel well.
+AME-09-R11,AME-09,American Tourister,2,50,material,limited expandability,negative,"The price is fine, yet limited expandability showed up around the material."
+AME-09-R12,AME-09,American Tourister,4,90,size,balanced weight,positive,"The product feels practical, with balanced weight and dependable size."
+AME-10-R01,AME-10,American Tourister,4,78,material,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable material."
+AME-10-R02,AME-10,American Tourister,4,85,zipper,smooth wheels,positive,"I liked the smooth wheels, especially because the zipper did not need extra care."
+AME-10-R03,AME-10,American Tourister,3,65,durability,balanced weight,positive,"The product feels practical, with balanced weight and dependable durability."
+AME-10-R04,AME-10,American Tourister,4,83,size,brand trust,positive,"The product feels practical, with brand trust and dependable size."
+AME-10-R05,AME-10,American Tourister,2,38,durability,limited expandability,negative,The durability needs improvement; I noticed limited expandability after airport use.
+AME-10-R06,AME-10,American Tourister,3,53,wheels,limited expandability,negative,The wheels needs improvement; I noticed limited expandability after family use.
+AME-10-R07,AME-10,American Tourister,4,79,handle,brand trust,positive,The handle felt reliable on a business trip and the brand trust stood out.
+AME-10-R08,AME-10,American Tourister,4,78,size,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable size."
+AME-10-R09,AME-10,American Tourister,5,91,size,brand trust,positive,"The product feels practical, with brand trust and dependable size."
+AME-10-R10,AME-10,American Tourister,4,80,wheels,balanced weight,positive,"The product feels practical, with balanced weight and dependable wheels."
+AME-10-R11,AME-10,American Tourister,4,80,size,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled weekend travel well.
+AME-10-R12,AME-10,American Tourister,3,68,value,higher price,negative,"Useful for short travel, though higher price affects confidence in the value."
+VIP-01-R01,VIP-01,VIP,3,65,size,classic design,positive,"The product feels practical, with classic design and dependable size."
+VIP-01-R02,VIP-01,VIP,3,64,durability,classic design,positive,"I liked the classic design, especially because the durability did not need extra care."
+VIP-01-R03,VIP-01,VIP,2,42,size,wheel noise,negative,The size needs improvement; I noticed wheel noise after business use.
+VIP-01-R04,VIP-01,VIP,4,83,wheels,service network,positive,"I liked the service network, especially because the wheels did not need extra care."
+VIP-01-R05,VIP-01,VIP,4,70,handle,service network,positive,"I liked the service network, especially because the handle did not need extra care."
+VIP-01-R06,VIP-01,VIP,2,40,value,higher price,negative,"Useful for short travel, though higher price affects confidence in the value."
+VIP-01-R07,VIP-01,VIP,3,59,handle,sturdy handle,positive,"The product feels practical, with sturdy handle and dependable handle."
+VIP-01-R08,VIP-01,VIP,1,29,value,wheel noise,negative,The value needs improvement; I noticed wheel noise after business use.
+VIP-01-R09,VIP-01,VIP,1,24,wheels,heavy for size,negative,The wheels needs improvement; I noticed heavy for size after weekend use.
+VIP-01-R10,VIP-01,VIP,4,70,size,sturdy handle,positive,"The product feels practical, with sturdy handle and dependable size."
+VIP-01-R11,VIP-01,VIP,3,55,value,classic design,positive,"The product feels practical, with classic design and dependable value."
+VIP-01-R12,VIP-01,VIP,3,64,size,sturdy handle,positive,"The product feels practical, with sturdy handle and dependable size."
+VIP-02-R01,VIP-02,VIP,3,60,wheels,durable shell,positive,"I liked the durable shell, especially because the wheels did not need extra care."
+VIP-02-R02,VIP-02,VIP,4,80,zipper,durable shell,positive,"The product feels practical, with durable shell and dependable zipper."
+VIP-02-R03,VIP-02,VIP,4,84,wheels,classic design,positive,The wheels felt reliable on a business trip and the classic design stood out.
+VIP-02-R04,VIP-02,VIP,4,81,value,classic design,positive,"The product feels practical, with classic design and dependable value."
+VIP-02-R05,VIP-02,VIP,4,73,value,classic design,positive,The value felt reliable on a train trip and the classic design stood out.
+VIP-02-R06,VIP-02,VIP,3,63,durability,durable shell,positive,"The product feels practical, with durable shell and dependable durability."
+VIP-02-R07,VIP-02,VIP,4,78,material,classic design,positive,"The product feels practical, with classic design and dependable material."
+VIP-02-R08,VIP-02,VIP,4,79,value,classic design,positive,The value felt reliable on a weekend trip and the classic design stood out.
+VIP-02-R09,VIP-02,VIP,4,70,durability,durable shell,positive,"The product feels practical, with durable shell and dependable durability."
+VIP-02-R10,VIP-02,VIP,4,71,zipper,durable shell,positive,"I liked the durable shell, especially because the zipper did not need extra care."
+VIP-02-R11,VIP-02,VIP,3,59,zipper,classic design,positive,"I liked the classic design, especially because the zipper did not need extra care."
+VIP-02-R12,VIP-02,VIP,4,82,size,classic design,positive,Good classic design for the price; the suitcase handled family travel well.
+VIP-03-R01,VIP-03,VIP,3,52,material,wheel noise,negative,The material needs improvement; I noticed wheel noise after business use.
+VIP-03-R02,VIP-03,VIP,3,68,wheels,sturdy handle,positive,"The product feels practical, with sturdy handle and dependable wheels."
+VIP-03-R03,VIP-03,VIP,4,77,value,service network,positive,The value felt reliable on a family trip and the service network stood out.
+VIP-03-R04,VIP-03,VIP,3,56,durability,classic design,positive,"I liked the classic design, especially because the durability did not need extra care."
+VIP-03-R05,VIP-03,VIP,4,71,durability,classic design,positive,"The product feels practical, with classic design and dependable durability."
+VIP-03-R06,VIP-03,VIP,3,67,size,service network,positive,"The product feels practical, with service network and dependable size."
+VIP-03-R07,VIP-03,VIP,4,76,durability,service network,positive,The durability felt reliable on a weekend trip and the service network stood out.
+VIP-03-R08,VIP-03,VIP,4,75,wheels,sturdy handle,positive,"The product feels practical, with sturdy handle and dependable wheels."
+VIP-03-R09,VIP-03,VIP,3,52,wheels,wheel noise,negative,The wheels needs improvement; I noticed wheel noise after business use.
+VIP-03-R10,VIP-03,VIP,4,74,size,sturdy handle,positive,Good sturdy handle for the price; the suitcase handled family travel well.
+VIP-03-R11,VIP-03,VIP,3,69,value,service network,positive,Good service network for the price; the suitcase handled airport travel well.
+VIP-03-R12,VIP-03,VIP,4,72,wheels,classic design,positive,Good classic design for the price; the suitcase handled weekend travel well.
+VIP-04-R01,VIP-04,VIP,4,87,wheels,service network,positive,The wheels felt reliable on a train trip and the service network stood out.
+VIP-04-R02,VIP-04,VIP,2,45,handle,wheel noise,negative,"Decent suitcase, but the wheel noise makes the handle feel less premium."
+VIP-04-R03,VIP-04,VIP,4,81,zipper,service network,positive,"The product feels practical, with service network and dependable zipper."
+VIP-04-R04,VIP-04,VIP,4,89,zipper,service network,positive,"The product feels practical, with service network and dependable zipper."
+VIP-04-R05,VIP-04,VIP,3,69,zipper,sturdy handle,positive,"The product feels practical, with sturdy handle and dependable zipper."
+VIP-04-R06,VIP-04,VIP,4,89,value,service network,positive,The value felt reliable on a business trip and the service network stood out.
+VIP-04-R07,VIP-04,VIP,4,75,handle,service network,positive,"I liked the service network, especially because the handle did not need extra care."
+VIP-04-R08,VIP-04,VIP,4,88,size,durable shell,positive,"I liked the durable shell, especially because the size did not need extra care."
+VIP-04-R09,VIP-04,VIP,3,69,size,durable shell,positive,The size felt reliable on a business trip and the durable shell stood out.
+VIP-04-R10,VIP-04,VIP,5,94,durability,service network,positive,"I liked the service network, especially because the durability did not need extra care."
+VIP-04-R11,VIP-04,VIP,4,85,handle,service network,positive,"I liked the service network, especially because the handle did not need extra care."
+VIP-04-R12,VIP-04,VIP,4,85,size,sturdy handle,positive,"The product feels practical, with sturdy handle and dependable size."
+VIP-05-R01,VIP-05,VIP,4,90,size,service network,positive,The size felt reliable on a family trip and the service network stood out.
+VIP-05-R02,VIP-05,VIP,3,59,size,service network,positive,"The product feels practical, with service network and dependable size."
+VIP-05-R03,VIP-05,VIP,4,72,durability,service network,positive,"The product feels practical, with service network and dependable durability."
+VIP-05-R04,VIP-05,VIP,3,52,material,higher price,negative,The material needs improvement; I noticed higher price after weekend use.
+VIP-05-R05,VIP-05,VIP,3,61,handle,service network,positive,"The product feels practical, with service network and dependable handle."
+VIP-05-R06,VIP-05,VIP,3,69,size,durable shell,positive,The size felt reliable on a weekend trip and the durable shell stood out.
+VIP-05-R07,VIP-05,VIP,3,52,size,wheel noise,negative,The size needs improvement; I noticed wheel noise after train use.
+VIP-05-R08,VIP-05,VIP,2,42,durability,higher price,negative,"Decent suitcase, but the higher price makes the durability feel less premium."
+VIP-05-R09,VIP-05,VIP,2,42,zipper,higher price,negative,"The price is fine, yet higher price showed up around the zipper."
+VIP-05-R10,VIP-05,VIP,3,65,value,higher price,negative,"Decent suitcase, but the higher price makes the value feel less premium."
+VIP-05-R11,VIP-05,VIP,3,59,durability,heavy for size,negative,"The price is fine, yet heavy for size showed up around the durability."
+VIP-05-R12,VIP-05,VIP,3,66,value,durable shell,positive,Good durable shell for the price; the suitcase handled train travel well.
+VIP-06-R01,VIP-06,VIP,4,74,wheels,classic design,positive,"I liked the classic design, especially because the wheels did not need extra care."
+VIP-06-R02,VIP-06,VIP,3,67,material,durable shell,positive,Good durable shell for the price; the suitcase handled family travel well.
+VIP-06-R03,VIP-06,VIP,3,64,durability,durable shell,positive,"I liked the durable shell, especially because the durability did not need extra care."
+VIP-06-R04,VIP-06,VIP,3,64,zipper,service network,positive,"I liked the service network, especially because the zipper did not need extra care."
+VIP-06-R05,VIP-06,VIP,4,82,material,classic design,positive,The material felt reliable on a airport trip and the classic design stood out.
+VIP-06-R06,VIP-06,VIP,2,34,durability,wheel noise,negative,"The price is fine, yet wheel noise showed up around the durability."
+VIP-06-R07,VIP-06,VIP,3,51,handle,wheel noise,negative,"Useful for short travel, though wheel noise affects confidence in the handle."
+VIP-06-R08,VIP-06,VIP,2,37,size,wheel noise,negative,"Decent suitcase, but the wheel noise makes the size feel less premium."
+VIP-06-R09,VIP-06,VIP,3,59,durability,wheel noise,negative,The durability needs improvement; I noticed wheel noise after family use.
+VIP-06-R10,VIP-06,VIP,4,74,zipper,service network,positive,"The product feels practical, with service network and dependable zipper."
+VIP-06-R11,VIP-06,VIP,3,52,handle,wheel noise,negative,"Decent suitcase, but the wheel noise makes the handle feel less premium."
+VIP-06-R12,VIP-06,VIP,3,65,material,classic design,positive,The material felt reliable on a weekend trip and the classic design stood out.
+VIP-07-R01,VIP-07,VIP,3,66,handle,durable shell,positive,Good durable shell for the price; the suitcase handled airport travel well.
+VIP-07-R02,VIP-07,VIP,4,74,value,durable shell,positive,"The product feels practical, with durable shell and dependable value."
+VIP-07-R03,VIP-07,VIP,4,75,zipper,durable shell,positive,The zipper felt reliable on a weekend trip and the durable shell stood out.
+VIP-07-R04,VIP-07,VIP,4,71,handle,classic design,positive,"The product feels practical, with classic design and dependable handle."
+VIP-07-R05,VIP-07,VIP,4,74,handle,sturdy handle,positive,The handle felt reliable on a train trip and the sturdy handle stood out.
+VIP-07-R06,VIP-07,VIP,4,75,handle,sturdy handle,positive,Good sturdy handle for the price; the suitcase handled family travel well.
+VIP-07-R07,VIP-07,VIP,4,79,value,classic design,positive,Good classic design for the price; the suitcase handled airport travel well.
+VIP-07-R08,VIP-07,VIP,4,78,material,classic design,positive,"The product feels practical, with classic design and dependable material."
+VIP-07-R09,VIP-07,VIP,3,52,material,wheel noise,negative,The material needs improvement; I noticed wheel noise after business use.
+VIP-07-R10,VIP-07,VIP,4,88,wheels,sturdy handle,positive,"I liked the sturdy handle, especially because the wheels did not need extra care."
+VIP-07-R11,VIP-07,VIP,4,75,handle,sturdy handle,positive,"The product feels practical, with sturdy handle and dependable handle."
+VIP-07-R12,VIP-07,VIP,4,78,handle,durable shell,positive,"The product feels practical, with durable shell and dependable handle."
+VIP-08-R01,VIP-08,VIP,3,55,wheels,higher price,negative,The wheels needs improvement; I noticed higher price after airport use.
+VIP-08-R02,VIP-08,VIP,2,49,size,heavy for size,negative,"The price is fine, yet heavy for size showed up around the size."
+VIP-08-R03,VIP-08,VIP,3,58,durability,heavy for size,negative,"Useful for short travel, though heavy for size affects confidence in the durability."
+VIP-08-R04,VIP-08,VIP,4,78,material,durable shell,positive,The material felt reliable on a business trip and the durable shell stood out.
+VIP-08-R05,VIP-08,VIP,2,39,size,higher price,negative,"The price is fine, yet higher price showed up around the size."
+VIP-08-R06,VIP-08,VIP,4,81,durability,classic design,positive,Good classic design for the price; the suitcase handled airport travel well.
+VIP-08-R07,VIP-08,VIP,4,70,wheels,classic design,positive,"The product feels practical, with classic design and dependable wheels."
+VIP-08-R08,VIP-08,VIP,4,71,handle,service network,positive,The handle felt reliable on a train trip and the service network stood out.
+VIP-08-R09,VIP-08,VIP,4,75,size,classic design,positive,"I liked the classic design, especially because the size did not need extra care."
+VIP-08-R10,VIP-08,VIP,3,53,value,higher price,negative,The value needs improvement; I noticed higher price after weekend use.
+VIP-08-R11,VIP-08,VIP,2,47,size,heavy for size,negative,The size needs improvement; I noticed heavy for size after airport use.
+VIP-08-R12,VIP-08,VIP,5,96,material,service network,positive,The material felt reliable on a family trip and the service network stood out.
+VIP-09-R01,VIP-09,VIP,5,92,zipper,classic design,positive,Good classic design for the price; the suitcase handled airport travel well.
+VIP-09-R02,VIP-09,VIP,5,96,durability,service network,positive,"The product feels practical, with service network and dependable durability."
+VIP-09-R03,VIP-09,VIP,4,82,durability,classic design,positive,"I liked the classic design, especially because the durability did not need extra care."
+VIP-09-R04,VIP-09,VIP,4,86,wheels,service network,positive,Good service network for the price; the suitcase handled train travel well.
+VIP-09-R05,VIP-09,VIP,5,95,zipper,sturdy handle,positive,The zipper felt reliable on a weekend trip and the sturdy handle stood out.
+VIP-09-R06,VIP-09,VIP,4,70,zipper,service network,positive,The zipper felt reliable on a weekend trip and the service network stood out.
+VIP-09-R07,VIP-09,VIP,4,82,value,service network,positive,"I liked the service network, especially because the value did not need extra care."
+VIP-09-R08,VIP-09,VIP,4,76,value,classic design,positive,Good classic design for the price; the suitcase handled business travel well.
+VIP-09-R09,VIP-09,VIP,4,84,handle,sturdy handle,positive,The handle felt reliable on a business trip and the sturdy handle stood out.
+VIP-09-R10,VIP-09,VIP,4,82,wheels,service network,positive,"I liked the service network, especially because the wheels did not need extra care."
+VIP-09-R11,VIP-09,VIP,5,91,value,classic design,positive,"I liked the classic design, especially because the value did not need extra care."
+VIP-09-R12,VIP-09,VIP,4,89,handle,sturdy handle,positive,"I liked the sturdy handle, especially because the handle did not need extra care."
+VIP-10-R01,VIP-10,VIP,2,45,wheels,durable shell,positive,The wheels felt reliable on a train trip and the durable shell stood out.
+VIP-10-R02,VIP-10,VIP,4,76,value,durable shell,positive,"The product feels practical, with durable shell and dependable value."
+VIP-10-R03,VIP-10,VIP,4,71,handle,durable shell,positive,The handle felt reliable on a business trip and the durable shell stood out.
+VIP-10-R04,VIP-10,VIP,3,65,handle,service network,positive,"The product feels practical, with service network and dependable handle."
+VIP-10-R05,VIP-10,VIP,4,72,size,service network,positive,"I liked the service network, especially because the size did not need extra care."
+VIP-10-R06,VIP-10,VIP,3,65,wheels,service network,positive,Good service network for the price; the suitcase handled weekend travel well.
+VIP-10-R07,VIP-10,VIP,2,46,size,higher price,negative,The size needs improvement; I noticed higher price after train use.
+VIP-10-R08,VIP-10,VIP,4,84,material,service network,positive,"The product feels practical, with service network and dependable material."
+VIP-10-R09,VIP-10,VIP,4,75,material,durable shell,positive,Good durable shell for the price; the suitcase handled family travel well.
+VIP-10-R10,VIP-10,VIP,3,68,handle,sturdy handle,positive,The handle felt reliable on a family trip and the sturdy handle stood out.
+VIP-10-R11,VIP-10,VIP,4,81,wheels,service network,positive,The wheels felt reliable on a train trip and the service network stood out.
+VIP-10-R12,VIP-10,VIP,4,72,material,durable shell,positive,The material felt reliable on a business trip and the durable shell stood out.
+ARI-01-R01,ARI-01,Aristocrat,3,51,handle,wheel durability,negative,"Useful for short travel, though wheel durability affects confidence in the handle."
+ARI-01-R02,ARI-01,Aristocrat,3,63,handle,low price,positive,"I liked the low price, especially because the handle did not need extra care."
+ARI-01-R03,ARI-01,Aristocrat,2,49,material,thin material,negative,"Useful for short travel, though thin material affects confidence in the material."
+ARI-01-R04,ARI-01,Aristocrat,4,70,material,lightweight body,positive,"The product feels practical, with lightweight body and dependable material."
+ARI-01-R05,ARI-01,Aristocrat,2,47,wheels,thin material,negative,The wheels needs improvement; I noticed thin material after train use.
+ARI-01-R06,ARI-01,Aristocrat,4,76,handle,lightweight body,positive,The handle felt reliable on a family trip and the lightweight body stood out.
+ARI-01-R07,ARI-01,Aristocrat,2,41,zipper,thin material,negative,"Useful for short travel, though thin material affects confidence in the zipper."
+ARI-01-R08,ARI-01,Aristocrat,4,81,wheels,frequent deals,positive,"I liked the frequent deals, especially because the wheels did not need extra care."
+ARI-01-R09,ARI-01,Aristocrat,3,56,wheels,low price,positive,"The product feels practical, with low price and dependable wheels."
+ARI-01-R10,ARI-01,Aristocrat,2,45,handle,wheel durability,negative,"Decent suitcase, but the wheel durability makes the handle feel less premium."
+ARI-01-R11,ARI-01,Aristocrat,2,49,wheels,lightweight body,positive,Good lightweight body for the price; the suitcase handled family travel well.
+ARI-01-R12,ARI-01,Aristocrat,3,60,handle,frequent deals,positive,Good frequent deals for the price; the suitcase handled business travel well.
+ARI-02-R01,ARI-02,Aristocrat,4,74,zipper,lightweight body,positive,The zipper felt reliable on a train trip and the lightweight body stood out.
+ARI-02-R02,ARI-02,Aristocrat,4,72,wheels,frequent deals,positive,"I liked the frequent deals, especially because the wheels did not need extra care."
+ARI-02-R03,ARI-02,Aristocrat,4,84,material,lightweight body,positive,Good lightweight body for the price; the suitcase handled weekend travel well.
+ARI-02-R04,ARI-02,Aristocrat,3,60,size,lightweight body,positive,Good lightweight body for the price; the suitcase handled airport travel well.
+ARI-02-R05,ARI-02,Aristocrat,2,41,wheels,thin material,negative,"The price is fine, yet thin material showed up around the wheels."
+ARI-02-R06,ARI-02,Aristocrat,3,56,material,frequent deals,positive,Good frequent deals for the price; the suitcase handled train travel well.
+ARI-02-R07,ARI-02,Aristocrat,2,41,value,thin material,negative,"Useful for short travel, though thin material affects confidence in the value."
+ARI-02-R08,ARI-02,Aristocrat,2,40,value,wheel durability,negative,"The price is fine, yet wheel durability showed up around the value."
+ARI-02-R09,ARI-02,Aristocrat,3,68,zipper,lightweight body,positive,"I liked the lightweight body, especially because the zipper did not need extra care."
+ARI-02-R10,ARI-02,Aristocrat,2,37,size,wheel durability,negative,"Useful for short travel, though wheel durability affects confidence in the size."
+ARI-02-R11,ARI-02,Aristocrat,3,66,material,low price,positive,Good low price for the price; the suitcase handled family travel well.
+ARI-02-R12,ARI-02,Aristocrat,3,65,wheels,low price,positive,Good low price for the price; the suitcase handled weekend travel well.
+ARI-03-R01,ARI-03,Aristocrat,2,35,material,thin material,negative,The material needs improvement; I noticed thin material after family use.
+ARI-03-R02,ARI-03,Aristocrat,2,33,zipper,wheel durability,negative,"Useful for short travel, though wheel durability affects confidence in the zipper."
+ARI-03-R03,ARI-03,Aristocrat,3,62,wheels,adequate storage,positive,"The product feels practical, with adequate storage and dependable wheels."
+ARI-03-R04,ARI-03,Aristocrat,2,48,value,lightweight body,positive,The value felt reliable on a weekend trip and the lightweight body stood out.
+ARI-03-R05,ARI-03,Aristocrat,2,49,wheels,adequate storage,positive,The wheels felt reliable on a train trip and the adequate storage stood out.
+ARI-03-R06,ARI-03,Aristocrat,3,51,wheels,handle wobble,negative,"The price is fine, yet handle wobble showed up around the wheels."
+ARI-03-R07,ARI-03,Aristocrat,1,24,durability,thin material,negative,The durability needs improvement; I noticed thin material after business use.
+ARI-03-R08,ARI-03,Aristocrat,2,41,wheels,wheel durability,negative,The wheels needs improvement; I noticed wheel durability after weekend use.
+ARI-03-R09,ARI-03,Aristocrat,3,55,zipper,lightweight body,positive,"I liked the lightweight body, especially because the zipper did not need extra care."
+ARI-03-R10,ARI-03,Aristocrat,3,53,size,low price,positive,"The product feels practical, with low price and dependable size."
+ARI-03-R11,ARI-03,Aristocrat,3,56,zipper,lightweight body,positive,The zipper felt reliable on a business trip and the lightweight body stood out.
+ARI-03-R12,ARI-03,Aristocrat,4,72,wheels,lightweight body,positive,Good lightweight body for the price; the suitcase handled train travel well.
+ARI-04-R01,ARI-04,Aristocrat,2,44,handle,wheel durability,negative,"The price is fine, yet wheel durability showed up around the handle."
+ARI-04-R02,ARI-04,Aristocrat,3,56,zipper,adequate storage,positive,"I liked the adequate storage, especially because the zipper did not need extra care."
+ARI-04-R03,ARI-04,Aristocrat,2,38,wheels,thin material,negative,"Decent suitcase, but the thin material makes the wheels feel less premium."
+ARI-04-R04,ARI-04,Aristocrat,1,24,zipper,thin material,negative,"Decent suitcase, but the thin material makes the zipper feel less premium."
+ARI-04-R05,ARI-04,Aristocrat,4,75,value,adequate storage,positive,"The product feels practical, with adequate storage and dependable value."
+ARI-04-R06,ARI-04,Aristocrat,3,59,zipper,frequent deals,positive,"I liked the frequent deals, especially because the zipper did not need extra care."
+ARI-04-R07,ARI-04,Aristocrat,4,73,wheels,lightweight body,positive,Good lightweight body for the price; the suitcase handled train travel well.
+ARI-04-R08,ARI-04,Aristocrat,2,48,handle,handle wobble,negative,"Decent suitcase, but the handle wobble makes the handle feel less premium."
+ARI-04-R09,ARI-04,Aristocrat,3,66,durability,frequent deals,positive,"The product feels practical, with frequent deals and dependable durability."
+ARI-04-R10,ARI-04,Aristocrat,3,53,material,wheel durability,negative,The material needs improvement; I noticed wheel durability after airport use.
+ARI-04-R11,ARI-04,Aristocrat,3,68,size,adequate storage,positive,"I liked the adequate storage, especially because the size did not need extra care."
+ARI-04-R12,ARI-04,Aristocrat,1,29,size,thin material,negative,"Useful for short travel, though thin material affects confidence in the size."
+ARI-05-R01,ARI-05,Aristocrat,3,62,zipper,lightweight body,positive,"The product feels practical, with lightweight body and dependable zipper."
+ARI-05-R02,ARI-05,Aristocrat,2,32,durability,thin material,negative,"Useful for short travel, though thin material affects confidence in the durability."
+ARI-05-R03,ARI-05,Aristocrat,3,64,durability,frequent deals,positive,Good frequent deals for the price; the suitcase handled weekend travel well.
+ARI-05-R04,ARI-05,Aristocrat,2,34,material,wheel durability,negative,"The price is fine, yet wheel durability showed up around the material."
+ARI-05-R05,ARI-05,Aristocrat,3,61,value,frequent deals,positive,The value felt reliable on a weekend trip and the frequent deals stood out.
+ARI-05-R06,ARI-05,Aristocrat,1,29,value,handle wobble,negative,"The price is fine, yet handle wobble showed up around the value."
+ARI-05-R07,ARI-05,Aristocrat,2,33,durability,thin material,negative,The durability needs improvement; I noticed thin material after family use.
+ARI-05-R08,ARI-05,Aristocrat,2,36,value,thin material,negative,"The price is fine, yet thin material showed up around the value."
+ARI-05-R09,ARI-05,Aristocrat,3,52,wheels,low price,positive,"I liked the low price, especially because the wheels did not need extra care."
+ARI-05-R10,ARI-05,Aristocrat,1,22,handle,wheel durability,negative,"Decent suitcase, but the wheel durability makes the handle feel less premium."
+ARI-05-R11,ARI-05,Aristocrat,2,39,wheels,wheel durability,negative,"Useful for short travel, though wheel durability affects confidence in the wheels."
+ARI-05-R12,ARI-05,Aristocrat,3,57,size,frequent deals,positive,"The product feels practical, with frequent deals and dependable size."
+ARI-06-R01,ARI-06,Aristocrat,2,40,wheels,handle wobble,negative,"The price is fine, yet handle wobble showed up around the wheels."
+ARI-06-R02,ARI-06,Aristocrat,2,38,value,wheel durability,negative,"Decent suitcase, but the wheel durability makes the value feel less premium."
+ARI-06-R03,ARI-06,Aristocrat,1,20,durability,thin material,negative,"Useful for short travel, though thin material affects confidence in the durability."
+ARI-06-R04,ARI-06,Aristocrat,3,60,durability,frequent deals,positive,Good frequent deals for the price; the suitcase handled business travel well.
+ARI-06-R05,ARI-06,Aristocrat,2,34,material,wheel durability,negative,"The price is fine, yet wheel durability showed up around the material."
+ARI-06-R06,ARI-06,Aristocrat,2,48,value,lightweight body,positive,"I liked the lightweight body, especially because the value did not need extra care."
+ARI-06-R07,ARI-06,Aristocrat,3,61,material,lightweight body,positive,"The product feels practical, with lightweight body and dependable material."
+ARI-06-R08,ARI-06,Aristocrat,3,61,size,adequate storage,positive,"I liked the adequate storage, especially because the size did not need extra care."
+ARI-06-R09,ARI-06,Aristocrat,2,50,wheels,thin material,negative,"The price is fine, yet thin material showed up around the wheels."
+ARI-06-R10,ARI-06,Aristocrat,3,61,durability,adequate storage,positive,"I liked the adequate storage, especially because the durability did not need extra care."
+ARI-06-R11,ARI-06,Aristocrat,3,54,wheels,frequent deals,positive,"The product feels practical, with frequent deals and dependable wheels."
+ARI-06-R12,ARI-06,Aristocrat,1,26,material,thin material,negative,"Useful for short travel, though thin material affects confidence in the material."
+ARI-07-R01,ARI-07,Aristocrat,2,50,value,lightweight body,positive,Good lightweight body for the price; the suitcase handled weekend travel well.
+ARI-07-R02,ARI-07,Aristocrat,2,38,value,thin material,negative,"Decent suitcase, but the thin material makes the value feel less premium."
+ARI-07-R03,ARI-07,Aristocrat,1,28,material,handle wobble,negative,"Decent suitcase, but the handle wobble makes the material feel less premium."
+ARI-07-R04,ARI-07,Aristocrat,2,45,material,low price,positive,"The product feels practical, with low price and dependable material."
+ARI-07-R05,ARI-07,Aristocrat,2,47,size,low price,positive,The size felt reliable on a airport trip and the low price stood out.
+ARI-07-R06,ARI-07,Aristocrat,2,30,size,wheel durability,negative,"The price is fine, yet wheel durability showed up around the size."
+ARI-07-R07,ARI-07,Aristocrat,2,38,handle,lightweight body,positive,Good lightweight body for the price; the suitcase handled family travel well.
+ARI-07-R08,ARI-07,Aristocrat,4,75,handle,low price,positive,The handle felt reliable on a family trip and the low price stood out.
+ARI-07-R09,ARI-07,Aristocrat,3,60,material,lightweight body,positive,The material felt reliable on a train trip and the lightweight body stood out.
+ARI-07-R10,ARI-07,Aristocrat,1,29,zipper,handle wobble,negative,The zipper needs improvement; I noticed handle wobble after train use.
+ARI-07-R11,ARI-07,Aristocrat,1,19,zipper,thin material,negative,"Useful for short travel, though thin material affects confidence in the zipper."
+ARI-07-R12,ARI-07,Aristocrat,3,57,durability,lightweight body,positive,"I liked the lightweight body, especially because the durability did not need extra care."
+ARI-08-R01,ARI-08,Aristocrat,3,63,material,frequent deals,positive,Good frequent deals for the price; the suitcase handled weekend travel well.
+ARI-08-R02,ARI-08,Aristocrat,3,62,size,frequent deals,positive,"I liked the frequent deals, especially because the size did not need extra care."
+ARI-08-R03,ARI-08,Aristocrat,2,33,material,wheel durability,negative,"Useful for short travel, though wheel durability affects confidence in the material."
+ARI-08-R04,ARI-08,Aristocrat,3,65,durability,adequate storage,positive,Good adequate storage for the price; the suitcase handled train travel well.
+ARI-08-R05,ARI-08,Aristocrat,2,47,size,handle wobble,negative,"Decent suitcase, but the handle wobble makes the size feel less premium."
+ARI-08-R06,ARI-08,Aristocrat,4,70,material,frequent deals,positive,The material felt reliable on a business trip and the frequent deals stood out.
+ARI-08-R07,ARI-08,Aristocrat,2,41,wheels,handle wobble,negative,The wheels needs improvement; I noticed handle wobble after family use.
+ARI-08-R08,ARI-08,Aristocrat,3,62,material,frequent deals,positive,"The product feels practical, with frequent deals and dependable material."
+ARI-08-R09,ARI-08,Aristocrat,3,56,durability,frequent deals,positive,The durability felt reliable on a business trip and the frequent deals stood out.
+ARI-08-R10,ARI-08,Aristocrat,4,73,durability,frequent deals,positive,Good frequent deals for the price; the suitcase handled family travel well.
+ARI-08-R11,ARI-08,Aristocrat,2,33,size,wheel durability,negative,The size needs improvement; I noticed wheel durability after family use.
+ARI-08-R12,ARI-08,Aristocrat,4,76,value,adequate storage,positive,"I liked the adequate storage, especially because the value did not need extra care."
+ARI-09-R01,ARI-09,Aristocrat,3,66,wheels,frequent deals,positive,"The product feels practical, with frequent deals and dependable wheels."
+ARI-09-R02,ARI-09,Aristocrat,3,67,wheels,adequate storage,positive,"I liked the adequate storage, especially because the wheels did not need extra care."
+ARI-09-R03,ARI-09,Aristocrat,4,79,material,low price,positive,"The product feels practical, with low price and dependable material."
+ARI-09-R04,ARI-09,Aristocrat,2,45,value,thin material,negative,"The price is fine, yet thin material showed up around the value."
+ARI-09-R05,ARI-09,Aristocrat,2,44,value,wheel durability,negative,The value needs improvement; I noticed wheel durability after train use.
+ARI-09-R06,ARI-09,Aristocrat,3,64,size,low price,positive,"I liked the low price, especially because the size did not need extra care."
+ARI-09-R07,ARI-09,Aristocrat,2,45,handle,low price,positive,The handle felt reliable on a weekend trip and the low price stood out.
+ARI-09-R08,ARI-09,Aristocrat,3,53,value,handle wobble,negative,"Useful for short travel, though handle wobble affects confidence in the value."
+ARI-09-R09,ARI-09,Aristocrat,2,38,wheels,wheel durability,negative,"Decent suitcase, but the wheel durability makes the wheels feel less premium."
+ARI-09-R10,ARI-09,Aristocrat,3,61,zipper,adequate storage,positive,"The product feels practical, with adequate storage and dependable zipper."
+ARI-09-R11,ARI-09,Aristocrat,4,76,size,low price,positive,The size felt reliable on a train trip and the low price stood out.
+ARI-09-R12,ARI-09,Aristocrat,2,49,wheels,low price,positive,"The product feels practical, with low price and dependable wheels."
+ARI-10-R01,ARI-10,Aristocrat,3,65,zipper,adequate storage,positive,"I liked the adequate storage, especially because the zipper did not need extra care."
+ARI-10-R02,ARI-10,Aristocrat,2,36,size,wheel durability,negative,The size needs improvement; I noticed wheel durability after airport use.
+ARI-10-R03,ARI-10,Aristocrat,4,82,size,adequate storage,positive,"The product feels practical, with adequate storage and dependable size."
+ARI-10-R04,ARI-10,Aristocrat,2,33,handle,thin material,negative,"The price is fine, yet thin material showed up around the handle."
+ARI-10-R05,ARI-10,Aristocrat,3,66,size,adequate storage,positive,"The product feels practical, with adequate storage and dependable size."
+ARI-10-R06,ARI-10,Aristocrat,4,75,zipper,frequent deals,positive,The zipper felt reliable on a family trip and the frequent deals stood out.
+ARI-10-R07,ARI-10,Aristocrat,4,79,zipper,adequate storage,positive,The zipper felt reliable on a business trip and the adequate storage stood out.
+ARI-10-R08,ARI-10,Aristocrat,4,77,value,adequate storage,positive,"I liked the adequate storage, especially because the value did not need extra care."
+ARI-10-R09,ARI-10,Aristocrat,4,80,durability,frequent deals,positive,"The product feels practical, with frequent deals and dependable durability."
+ARI-10-R10,ARI-10,Aristocrat,2,45,material,thin material,negative,"Useful for short travel, though thin material affects confidence in the material."
+ARI-10-R11,ARI-10,Aristocrat,4,80,wheels,adequate storage,positive,Good adequate storage for the price; the suitcase handled weekend travel well.
+ARI-10-R12,ARI-10,Aristocrat,4,72,durability,lightweight body,positive,The durability felt reliable on a airport trip and the lightweight body stood out.
+NAS-01-R01,NAS-01,Nasher Miles,4,72,durability,distinctive design,positive,"I liked the distinctive design, especially because the durability did not need extra care."
+NAS-01-R02,NAS-01,Nasher Miles,4,70,zipper,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled family travel well.
+NAS-01-R03,NAS-01,Nasher Miles,4,70,wheels,good finish,positive,"The product feels practical, with good finish and dependable wheels."
+NAS-01-R04,NAS-01,Nasher Miles,2,32,durability,color mismatch,negative,"Decent suitcase, but the color mismatch makes the durability feel less premium."
+NAS-01-R05,NAS-01,Nasher Miles,3,56,size,good finish,positive,"I liked the good finish, especially because the size did not need extra care."
+NAS-01-R06,NAS-01,Nasher Miles,2,40,material,color mismatch,negative,"Useful for short travel, though color mismatch affects confidence in the material."
+NAS-01-R07,NAS-01,Nasher Miles,2,48,value,limited service,negative,"Decent suitcase, but the limited service makes the value feel less premium."
+NAS-01-R08,NAS-01,Nasher Miles,4,74,size,good finish,positive,"I liked the good finish, especially because the size did not need extra care."
+NAS-01-R09,NAS-01,Nasher Miles,3,57,handle,distinctive design,positive,"I liked the distinctive design, especially because the handle did not need extra care."
+NAS-01-R10,NAS-01,Nasher Miles,1,22,handle,zipper stiffness,negative,"The price is fine, yet zipper stiffness showed up around the handle."
+NAS-01-R11,NAS-01,Nasher Miles,2,32,zipper,zipper stiffness,negative,"Useful for short travel, though zipper stiffness affects confidence in the zipper."
+NAS-01-R12,NAS-01,Nasher Miles,2,48,value,smooth wheels,positive,The value felt reliable on a business trip and the smooth wheels stood out.
+NAS-02-R01,NAS-02,Nasher Miles,4,77,wheels,roomy packing,positive,"I liked the roomy packing, especially because the wheels did not need extra care."
+NAS-02-R02,NAS-02,Nasher Miles,2,48,durability,zipper stiffness,negative,"Useful for short travel, though zipper stiffness affects confidence in the durability."
+NAS-02-R03,NAS-02,Nasher Miles,4,83,material,roomy packing,positive,The material felt reliable on a weekend trip and the roomy packing stood out.
+NAS-02-R04,NAS-02,Nasher Miles,2,48,wheels,color mismatch,negative,"The price is fine, yet color mismatch showed up around the wheels."
+NAS-02-R05,NAS-02,Nasher Miles,4,87,value,good finish,positive,Good good finish for the price; the suitcase handled weekend travel well.
+NAS-02-R06,NAS-02,Nasher Miles,3,68,durability,roomy packing,positive,Good roomy packing for the price; the suitcase handled train travel well.
+NAS-02-R07,NAS-02,Nasher Miles,4,78,durability,smooth wheels,positive,The durability felt reliable on a business trip and the smooth wheels stood out.
+NAS-02-R08,NAS-02,Nasher Miles,4,81,zipper,smooth wheels,positive,"I liked the smooth wheels, especially because the zipper did not need extra care."
+NAS-02-R09,NAS-02,Nasher Miles,4,86,size,smooth wheels,positive,"I liked the smooth wheels, especially because the size did not need extra care."
+NAS-02-R10,NAS-02,Nasher Miles,4,76,size,good finish,positive,The size felt reliable on a business trip and the good finish stood out.
+NAS-02-R11,NAS-02,Nasher Miles,3,64,zipper,limited service,negative,"The price is fine, yet limited service showed up around the zipper."
+NAS-02-R12,NAS-02,Nasher Miles,4,82,size,smooth wheels,positive,The size felt reliable on a business trip and the smooth wheels stood out.
+NAS-03-R01,NAS-03,Nasher Miles,5,95,size,good finish,positive,"The product feels practical, with good finish and dependable size."
+NAS-03-R02,NAS-03,Nasher Miles,4,78,zipper,roomy packing,positive,Good roomy packing for the price; the suitcase handled business travel well.
+NAS-03-R03,NAS-03,Nasher Miles,2,43,wheels,zipper stiffness,negative,"The price is fine, yet zipper stiffness showed up around the wheels."
+NAS-03-R04,NAS-03,Nasher Miles,4,89,durability,good finish,positive,"I liked the good finish, especially because the durability did not need extra care."
+NAS-03-R05,NAS-03,Nasher Miles,2,47,size,limited service,negative,"Useful for short travel, though limited service affects confidence in the size."
+NAS-03-R06,NAS-03,Nasher Miles,4,79,wheels,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled business travel well.
+NAS-03-R07,NAS-03,Nasher Miles,4,71,wheels,good finish,positive,Good good finish for the price; the suitcase handled family travel well.
+NAS-03-R08,NAS-03,Nasher Miles,2,41,size,zipper stiffness,negative,"Useful for short travel, though zipper stiffness affects confidence in the size."
+NAS-03-R09,NAS-03,Nasher Miles,4,78,wheels,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable wheels."
+NAS-03-R10,NAS-03,Nasher Miles,4,76,size,roomy packing,positive,The size felt reliable on a business trip and the roomy packing stood out.
+NAS-03-R11,NAS-03,Nasher Miles,2,46,zipper,limited service,negative,"Useful for short travel, though limited service affects confidence in the zipper."
+NAS-03-R12,NAS-03,Nasher Miles,4,81,wheels,good finish,positive,The wheels felt reliable on a business trip and the good finish stood out.
+NAS-04-R01,NAS-04,Nasher Miles,4,79,zipper,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable zipper."
+NAS-04-R02,NAS-04,Nasher Miles,4,76,durability,distinctive design,positive,"The product feels practical, with distinctive design and dependable durability."
+NAS-04-R03,NAS-04,Nasher Miles,4,70,handle,roomy packing,positive,"I liked the roomy packing, especially because the handle did not need extra care."
+NAS-04-R04,NAS-04,Nasher Miles,2,37,size,limited service,negative,"Decent suitcase, but the limited service makes the size feel less premium."
+NAS-04-R05,NAS-04,Nasher Miles,3,57,size,roomy packing,positive,"The product feels practical, with roomy packing and dependable size."
+NAS-04-R06,NAS-04,Nasher Miles,4,73,durability,roomy packing,positive,"I liked the roomy packing, especially because the durability did not need extra care."
+NAS-04-R07,NAS-04,Nasher Miles,4,82,value,roomy packing,positive,Good roomy packing for the price; the suitcase handled weekend travel well.
+NAS-04-R08,NAS-04,Nasher Miles,4,84,durability,distinctive design,positive,The durability felt reliable on a business trip and the distinctive design stood out.
+NAS-04-R09,NAS-04,Nasher Miles,4,75,wheels,roomy packing,positive,"I liked the roomy packing, especially because the wheels did not need extra care."
+NAS-04-R10,NAS-04,Nasher Miles,4,72,material,smooth wheels,positive,"I liked the smooth wheels, especially because the material did not need extra care."
+NAS-04-R11,NAS-04,Nasher Miles,3,64,wheels,distinctive design,positive,"I liked the distinctive design, especially because the wheels did not need extra care."
+NAS-04-R12,NAS-04,Nasher Miles,3,65,size,smooth wheels,positive,"I liked the smooth wheels, especially because the size did not need extra care."
+NAS-05-R01,NAS-05,Nasher Miles,2,42,durability,color mismatch,negative,"The price is fine, yet color mismatch showed up around the durability."
+NAS-05-R02,NAS-05,Nasher Miles,1,28,size,zipper stiffness,negative,The size needs improvement; I noticed zipper stiffness after train use.
+NAS-05-R03,NAS-05,Nasher Miles,2,38,value,color mismatch,negative,"The price is fine, yet color mismatch showed up around the value."
+NAS-05-R04,NAS-05,Nasher Miles,3,55,durability,good finish,positive,The durability felt reliable on a airport trip and the good finish stood out.
+NAS-05-R05,NAS-05,Nasher Miles,2,39,durability,limited service,negative,The durability needs improvement; I noticed limited service after business use.
+NAS-05-R06,NAS-05,Nasher Miles,2,48,size,distinctive design,positive,"I liked the distinctive design, especially because the size did not need extra care."
+NAS-05-R07,NAS-05,Nasher Miles,2,30,zipper,limited service,negative,"Decent suitcase, but the limited service makes the zipper feel less premium."
+NAS-05-R08,NAS-05,Nasher Miles,2,39,handle,zipper stiffness,negative,"Useful for short travel, though zipper stiffness affects confidence in the handle."
+NAS-05-R09,NAS-05,Nasher Miles,2,49,material,smooth wheels,positive,The material felt reliable on a business trip and the smooth wheels stood out.
+NAS-05-R10,NAS-05,Nasher Miles,1,20,handle,limited service,negative,"Useful for short travel, though limited service affects confidence in the handle."
+NAS-05-R11,NAS-05,Nasher Miles,3,58,durability,good finish,positive,Good good finish for the price; the suitcase handled weekend travel well.
+NAS-05-R12,NAS-05,Nasher Miles,2,48,handle,smooth wheels,positive,The handle felt reliable on a weekend trip and the smooth wheels stood out.
+NAS-06-R01,NAS-06,Nasher Miles,5,93,durability,roomy packing,positive,"I liked the roomy packing, especially because the durability did not need extra care."
+NAS-06-R02,NAS-06,Nasher Miles,4,83,durability,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable durability."
+NAS-06-R03,NAS-06,Nasher Miles,4,76,size,good finish,positive,"I liked the good finish, especially because the size did not need extra care."
+NAS-06-R04,NAS-06,Nasher Miles,5,96,zipper,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable zipper."
+NAS-06-R05,NAS-06,Nasher Miles,5,91,zipper,good finish,positive,Good good finish for the price; the suitcase handled weekend travel well.
+NAS-06-R06,NAS-06,Nasher Miles,5,96,handle,good finish,positive,"I liked the good finish, especially because the handle did not need extra care."
+NAS-06-R07,NAS-06,Nasher Miles,4,83,durability,good finish,positive,Good good finish for the price; the suitcase handled airport travel well.
+NAS-06-R08,NAS-06,Nasher Miles,5,94,zipper,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled business travel well.
+NAS-06-R09,NAS-06,Nasher Miles,5,96,wheels,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled train travel well.
+NAS-06-R10,NAS-06,Nasher Miles,5,93,wheels,roomy packing,positive,Good roomy packing for the price; the suitcase handled airport travel well.
+NAS-06-R11,NAS-06,Nasher Miles,4,80,size,good finish,positive,"The product feels practical, with good finish and dependable size."
+NAS-06-R12,NAS-06,Nasher Miles,4,83,durability,roomy packing,positive,"I liked the roomy packing, especially because the durability did not need extra care."
+NAS-07-R01,NAS-07,Nasher Miles,4,74,material,distinctive design,positive,"The product feels practical, with distinctive design and dependable material."
+NAS-07-R02,NAS-07,Nasher Miles,4,75,wheels,good finish,positive,Good good finish for the price; the suitcase handled business travel well.
+NAS-07-R03,NAS-07,Nasher Miles,3,58,durability,zipper stiffness,negative,"Useful for short travel, though zipper stiffness affects confidence in the durability."
+NAS-07-R04,NAS-07,Nasher Miles,3,66,size,distinctive design,positive,The size felt reliable on a business trip and the distinctive design stood out.
+NAS-07-R05,NAS-07,Nasher Miles,3,66,wheels,good finish,positive,"The product feels practical, with good finish and dependable wheels."
+NAS-07-R06,NAS-07,Nasher Miles,2,36,durability,zipper stiffness,negative,"Useful for short travel, though zipper stiffness affects confidence in the durability."
+NAS-07-R07,NAS-07,Nasher Miles,4,79,durability,good finish,positive,"The product feels practical, with good finish and dependable durability."
+NAS-07-R08,NAS-07,Nasher Miles,5,93,value,distinctive design,positive,The value felt reliable on a family trip and the distinctive design stood out.
+NAS-07-R09,NAS-07,Nasher Miles,4,80,value,roomy packing,positive,Good roomy packing for the price; the suitcase handled business travel well.
+NAS-07-R10,NAS-07,Nasher Miles,2,50,material,color mismatch,negative,"Decent suitcase, but the color mismatch makes the material feel less premium."
+NAS-07-R11,NAS-07,Nasher Miles,3,68,size,good finish,positive,The size felt reliable on a train trip and the good finish stood out.
+NAS-07-R12,NAS-07,Nasher Miles,4,75,zipper,roomy packing,positive,"I liked the roomy packing, especially because the zipper did not need extra care."
+NAS-08-R01,NAS-08,Nasher Miles,4,81,zipper,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled weekend travel well.
+NAS-08-R02,NAS-08,Nasher Miles,4,73,material,color mismatch,negative,"Useful for short travel, though color mismatch affects confidence in the material."
+NAS-08-R03,NAS-08,Nasher Miles,4,75,wheels,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled train travel well.
+NAS-08-R04,NAS-08,Nasher Miles,5,93,zipper,smooth wheels,positive,"I liked the smooth wheels, especially because the zipper did not need extra care."
+NAS-08-R05,NAS-08,Nasher Miles,5,96,durability,smooth wheels,positive,The durability felt reliable on a airport trip and the smooth wheels stood out.
+NAS-08-R06,NAS-08,Nasher Miles,5,96,zipper,roomy packing,positive,"The product feels practical, with roomy packing and dependable zipper."
+NAS-08-R07,NAS-08,Nasher Miles,4,77,material,roomy packing,positive,The material felt reliable on a family trip and the roomy packing stood out.
+NAS-08-R08,NAS-08,Nasher Miles,4,79,material,smooth wheels,positive,The material felt reliable on a train trip and the smooth wheels stood out.
+NAS-08-R09,NAS-08,Nasher Miles,5,96,wheels,good finish,positive,Good good finish for the price; the suitcase handled business travel well.
+NAS-08-R10,NAS-08,Nasher Miles,4,72,value,roomy packing,positive,Good roomy packing for the price; the suitcase handled business travel well.
+NAS-08-R11,NAS-08,Nasher Miles,4,75,material,roomy packing,positive,Good roomy packing for the price; the suitcase handled airport travel well.
+NAS-08-R12,NAS-08,Nasher Miles,2,44,material,zipper stiffness,negative,"Useful for short travel, though zipper stiffness affects confidence in the material."
+NAS-09-R01,NAS-09,Nasher Miles,3,66,zipper,roomy packing,positive,"The product feels practical, with roomy packing and dependable zipper."
+NAS-09-R02,NAS-09,Nasher Miles,3,69,wheels,smooth wheels,positive,"I liked the smooth wheels, especially because the wheels did not need extra care."
+NAS-09-R03,NAS-09,Nasher Miles,2,40,material,color mismatch,negative,"The price is fine, yet color mismatch showed up around the material."
+NAS-09-R04,NAS-09,Nasher Miles,3,51,value,roomy packing,positive,"I liked the roomy packing, especially because the value did not need extra care."
+NAS-09-R05,NAS-09,Nasher Miles,3,66,value,smooth wheels,positive,The value felt reliable on a family trip and the smooth wheels stood out.
+NAS-09-R06,NAS-09,Nasher Miles,4,73,durability,roomy packing,positive,Good roomy packing for the price; the suitcase handled weekend travel well.
+NAS-09-R07,NAS-09,Nasher Miles,4,70,size,good finish,positive,The size felt reliable on a weekend trip and the good finish stood out.
+NAS-09-R08,NAS-09,Nasher Miles,3,66,durability,smooth wheels,positive,"I liked the smooth wheels, especially because the durability did not need extra care."
+NAS-09-R09,NAS-09,Nasher Miles,3,61,zipper,roomy packing,positive,"I liked the roomy packing, especially because the zipper did not need extra care."
+NAS-09-R10,NAS-09,Nasher Miles,4,88,durability,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled family travel well.
+NAS-09-R11,NAS-09,Nasher Miles,3,53,durability,zipper stiffness,negative,"Decent suitcase, but the zipper stiffness makes the durability feel less premium."
+NAS-09-R12,NAS-09,Nasher Miles,2,44,material,color mismatch,negative,"Decent suitcase, but the color mismatch makes the material feel less premium."
+NAS-10-R01,NAS-10,Nasher Miles,1,23,value,color mismatch,negative,"The price is fine, yet color mismatch showed up around the value."
+NAS-10-R02,NAS-10,Nasher Miles,4,74,value,distinctive design,positive,Good distinctive design for the price; the suitcase handled airport travel well.
+NAS-10-R03,NAS-10,Nasher Miles,3,63,zipper,smooth wheels,positive,The zipper felt reliable on a train trip and the smooth wheels stood out.
+NAS-10-R04,NAS-10,Nasher Miles,4,72,durability,distinctive design,positive,"The product feels practical, with distinctive design and dependable durability."
+NAS-10-R05,NAS-10,Nasher Miles,3,69,durability,distinctive design,positive,Good distinctive design for the price; the suitcase handled weekend travel well.
+NAS-10-R06,NAS-10,Nasher Miles,4,75,handle,smooth wheels,positive,"I liked the smooth wheels, especially because the handle did not need extra care."
+NAS-10-R07,NAS-10,Nasher Miles,4,76,material,roomy packing,positive,"I liked the roomy packing, especially because the material did not need extra care."
+NAS-10-R08,NAS-10,Nasher Miles,4,81,material,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable material."
+NAS-10-R09,NAS-10,Nasher Miles,4,78,handle,roomy packing,positive,Good roomy packing for the price; the suitcase handled train travel well.
+NAS-10-R10,NAS-10,Nasher Miles,3,59,handle,smooth wheels,positive,Good smooth wheels for the price; the suitcase handled train travel well.
+NAS-10-R11,NAS-10,Nasher Miles,2,43,handle,distinctive design,positive,"The product feels practical, with distinctive design and dependable handle."
+NAS-10-R12,NAS-10,Nasher Miles,4,73,value,smooth wheels,positive,"The product feels practical, with smooth wheels and dependable value."

@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Moonshot Luggage Intelligence Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Amazon India luggage intelligence</p>
+        <h1>Competitive dashboard</h1>
+      </div>
+      <div class="topbar-actions">
+        <button id="resetFilters" class="icon-button" title="Reset filters" aria-label="Reset filters">↺</button>
+        <button id="exportCsv" class="primary-button">Export comparison</button>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="filters" aria-label="Dashboard filters">
+        <h2>Filters</h2>
+        <label>
+          Brand
+          <select id="brandFilter" multiple size="6"></select>
+        </label>
+        <label>
+          Category
+          <select id="categoryFilter">
+            <option value="all">All categories</option>
+          </select>
+        </label>
+        <label>
+          Sentiment band
+          <select id="sentimentFilter">
+            <option value="all">All sentiment</option>
+            <option value="strong">Strong positive</option>
+            <option value="mixed">Mixed</option>
+            <option value="weak">Watchlist</option>
+          </select>
+        </label>
+        <label>
+          Maximum price
+          <input id="priceFilter" type="range" min="2500" max="12000" step="500">
+          <span id="priceLabel" class="range-readout"></span>
+        </label>
+        <label>
+          Minimum rating
+          <input id="ratingFilter" type="range" min="3.5" max="4.8" step="0.1">
+          <span id="ratingLabel" class="range-readout"></span>
+        </label>
+      </aside>
+
+      <section class="content">
+        <section class="metrics" aria-label="Overview metrics">
+          <article><span id="metricBrands">0</span><small>brands tracked</small></article>
+          <article><span id="metricProducts">0</span><small>products analyzed</small></article>
+          <article><span id="metricReviews">0</span><small>reviews synthesized</small></article>
+          <article><span id="metricSentiment">0</span><small>avg sentiment</small></article>
+        </section>
+
+        <section class="insights-band">
+          <div class="section-title">
+            <h2>Agent Insights</h2>
+            <p>Automatically ranked decision signals from price, sentiment, discounts, and themes.</p>
+          </div>
+          <div id="agentInsights" class="insights-grid"></div>
+        </section>
+
+        <section class="dashboard-grid">
+          <article class="panel wide">
+            <div class="section-title">
+              <h2>Brand position map</h2>
+              <p>Sentiment relative to average selling price. Bubble size reflects review volume.</p>
+            </div>
+            <div id="positionChart" class="bubble-chart" role="img" aria-label="Brand price and sentiment chart"></div>
+          </article>
+
+          <article class="panel">
+            <div class="section-title">
+              <h2>Discount reliance</h2>
+              <p>Average listed discount by brand.</p>
+            </div>
+            <div id="discountChart" class="bar-chart" role="img" aria-label="Discount comparison chart"></div>
+          </article>
+        </section>
+
+        <section class="panel">
+          <div class="section-title row">
+            <div>
+              <h2>Brand comparison</h2>
+              <p>Sortable benchmark across pricing, demand, ratings, sentiment, and themes.</p>
+            </div>
+            <input id="tableSearch" type="search" placeholder="Search brands or themes">
+          </div>
+          <div class="table-wrap">
+            <table id="brandTable">
+              <thead>
+                <tr>
+                  <th data-sort="brand">Brand</th>
+                  <th data-sort="avgPrice">Avg price</th>
+                  <th data-sort="avgDiscount">Discount</th>
+                  <th data-sort="avgRating">Rating</th>
+                  <th data-sort="reviewCount">Reviews</th>
+                  <th data-sort="sentiment">Sentiment</th>
+                  <th>Top pros</th>
+                  <th>Top cons</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+          </div>
+        </section>
+
+        <section class="panel">
+          <div class="section-title row">
+            <div>
+              <h2>Product drilldown</h2>
+              <p>Select a product to inspect price spread, review synthesis, and aspect-level themes.</p>
+            </div>
+            <select id="productSelect"></select>
+          </div>
+          <div id="productDetail" class="product-detail"></div>
+        </section>
+      </section>
+    </main>
+
+    <script src="src/app.js"></script>
+  </body>
+</html>

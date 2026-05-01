@@ -1,0 +1,88 @@
+[
+  {
+    "brand": "Safari",
+    "avgPrice": 4499,
+    "avgDiscount": 28.0,
+    "avgRating": 4.03,
+    "reviewCount": 0,
+    "sampleReviews": 32,
+    "sentiment": 80.2,
+    "positioning": "Marketplace brand",
+    "topPros": [
+      "general quality",
+      "lightweight",
+      "smooth wheels",
+      "handle quality"
+    ],
+    "topCons": [
+      "general quality",
+      "zipper issue",
+      "smooth wheels"
+    ],
+    "valueScore": 17.83
+  },
+  {
+    "brand": "Skybags",
+    "avgPrice": 2580,
+    "avgDiscount": 29.3,
+    "avgRating": 4.23,
+    "reviewCount": 0,
+    "sampleReviews": 37,
+    "sentiment": 77.2,
+    "positioning": "Marketplace brand",
+    "topPros": [
+      "general quality",
+      "smooth wheels",
+      "handle quality",
+      "lightweight"
+    ],
+    "topCons": [
+      "general quality",
+      "handle quality",
+      "smooth wheels"
+    ],
+    "valueScore": 29.92
+  },
+  {
+    "brand": "Wildcraft",
+    "avgPrice": 2252,
+    "avgDiscount": 28.0,
+    "avgRating": 4.37,
+    "reviewCount": 0,
+    "sampleReviews": 33,
+    "sentiment": 81.3,
+    "positioning": "Marketplace brand",
+    "topPros": [
+      "general quality",
+      "smooth wheels",
+      "handle quality",
+      "lightweight"
+    ],
+    "topCons": [
+      "general quality",
+      "smooth wheels"
+    ],
+    "valueScore": 36.1
+  },
+  {
+    "brand": "AmericanTourister",
+    "avgPrice": 4166,
+    "avgDiscount": 34.3,
+    "avgRating": 4.13,
+    "reviewCount": 0,
+    "sampleReviews": 34,
+    "sentiment": 83.2,
+    "positioning": "Marketplace brand",
+    "topPros": [
+      "general quality",
+      "smooth wheels",
+      "lightweight",
+      "handle quality"
+    ],
+    "topCons": [
+      "zipper issue",
+      "handle quality"
+    ],
+    "valueScore": 19.97
+  }
+]

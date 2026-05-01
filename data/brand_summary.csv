@@ -1,0 +1,7 @@
+brand,avgPrice,avgDiscount,avgRating,reviewCount,sampleReviews,sentiment,positioning,topPros,topCons,valueScore
+American Tourister,6185,39.4,4.25,22485,120,75.6,Premium mass-market reliability,"['balanced weight', 'brand trust', 'smooth wheels', 'durable shell']","['limited expandability', 'delivery dents', 'higher price']",12.22
+Aristocrat,3545,49.7,4.02,26234,120,52.9,Entry-value volume play,"['lightweight body', 'frequent deals', 'adequate storage', 'low price']","['thin material', 'wheel durability', 'handle wobble']",14.92
+Nasher Miles,5660,45.6,4.32,16249,120,66.9,Design-forward value premium,"['smooth wheels', 'roomy packing', 'good finish', 'distinctive design']","['zipper stiffness', 'color mismatch', 'limited service']",11.82
+Safari,3865,48.0,4.19,30063,120,54.9,Value-focused family travel,"['deal pricing', 'easy rolling', 'lightweight body', 'roomy packing']","['shell scuffs', 'handle wobble', 'zipper snags']",14.2
+Skybags,4580,48.3,4.06,24174,120,62.4,Youthful design at accessible prices,"['stylish colors', 'lightweight body', 'good compartments', 'smooth wheels']","['lock feels basic', 'scratches quickly', 'zipper snags']",13.62
+VIP,5685,35.1,4.21,24507,120,68.9,Established Indian luggage brand,"['service network', 'classic design', 'durable shell', 'sturdy handle']","['wheel noise', 'higher price', 'heavy for size']",12.12
