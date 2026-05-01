@@ -42,7 +42,7 @@ const number = new Intl.NumberFormat("en-IN");
 // 🔥 FIXED DATA LOADING (API BASED)
 async function loadData() {
   try {
-    const res = await fetch("http://127.0.0.1:8000/data");
+    const res = await fetch("https://munshot.onrender.com/data");
 
     if (!res.ok) {
       throw new Error("API not responding");
